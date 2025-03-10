@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"0ff48c0e24908bb7","type":"group","x":-1360,"y":-640,"width":2480,"height":1080,"label":"Fujiwara Family"},
+		{"id":"ba296cb8caf96351","type":"file","file":"Familia Fujiwara/Takahiro Fujiwara.md","x":-740,"y":-620,"width":400,"height":400},
+		{"id":"628207548437ec00","type":"file","file":"Familia Fujiwara/Satoshi Fujiwara.md","x":-160,"y":-620,"width":400,"height":400},
+		{"id":"b225fc5b656f722d","x":-280,"y":12,"width":400,"height":400,"type":"file","file":"Familia Fujiwara/Kentaro Fujiwara.md"},
+		{"id":"cf77566bd5504cf7","x":120,"y":-40,"width":400,"height":400,"type":"file","file":"Familia Fujiwara/Suzu Fujiwara.md"},
+		{"id":"d35297f50656ade6","x":760,"y":-120,"width":240,"height":400,"type":"text","text":""},
+		{"id":"a407c1b5c0f90ea3","type":"file","file":"Familia Fujiwara/Kazue Fujiwara.md","x":480,"y":-620,"width":400,"height":400},
+		{"id":"02f72e1cc5eb5299","type":"file","file":"Familia Fujiwara/Kiyomi Fujiwara.md","x":-1280,"y":-620,"width":400,"height":400},
+		{"id":"7290d2f5b5fc95c1","type":"file","file":"Familia Fujiwara/Aiko Fujiwara.md","x":-1020,"y":-100,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"98b8b31b36905c52","fromNode":"ba296cb8caf96351","fromSide":"bottom","toNode":"7290d2f5b5fc95c1","toSide":"top","toEnd":"none"},
+		{"id":"812abfdd6dfda524","fromNode":"02f72e1cc5eb5299","fromSide":"bottom","toNode":"7290d2f5b5fc95c1","toSide":"top","toEnd":"none"},
+		{"id":"fcf8ca10844eb92e","fromNode":"a407c1b5c0f90ea3","fromSide":"top","toNode":"628207548437ec00","toSide":"top","fromEnd":"arrow","color":"#8d307c","label":"Amantes"},
+		{"id":"275202b5e8f1ce39","fromNode":"a407c1b5c0f90ea3","fromSide":"top","toNode":"ba296cb8caf96351","toSide":"top","label":"Matrimonio"},
+		{"id":"90594ba0ce50ef55","fromNode":"a407c1b5c0f90ea3","fromSide":"bottom","toNode":"b225fc5b656f722d","toSide":"top"},
+		{"id":"87a1a11b0b540e40","fromNode":"a407c1b5c0f90ea3","fromSide":"bottom","toNode":"cf77566bd5504cf7","toSide":"top","toEnd":"none"},
+		{"id":"0f62cb52baf9872f","fromNode":"628207548437ec00","fromSide":"bottom","toNode":"b225fc5b656f722d","toSide":"top","toEnd":"none"},
+		{"id":"5dc85bd1b9b20b70","fromNode":"ba296cb8caf96351","fromSide":"bottom","toNode":"b225fc5b656f722d","toSide":"top","color":"6","label":"Ilegítimo"},
+		{"id":"7985353a21fa83c1","fromNode":"ba296cb8caf96351","fromSide":"bottom","toNode":"cf77566bd5504cf7","toSide":"top","color":"6","label":"Ilegítimo"},
+		{"id":"be0b7f46db6136e9","fromNode":"628207548437ec00","fromSide":"right","toNode":"a407c1b5c0f90ea3","toSide":"left","fromEnd":"arrow","label":"Matrimonio"},
+		{"id":"69a21d4d7fe93889","fromNode":"cf77566bd5504cf7","fromSide":"top","toNode":"628207548437ec00","toSide":"bottom","toEnd":"none"},
+		{"id":"bd4f7ccb92176486","fromNode":"a407c1b5c0f90ea3","fromSide":"left","toNode":"628207548437ec00","toSide":"right"},
+		{"id":"42ffa5c3114e6046","fromNode":"ba296cb8caf96351","fromSide":"left","toNode":"02f72e1cc5eb5299","toSide":"right","fromEnd":"arrow","color":"1"}
+	]
+}
