@@ -1,7 +1,6 @@
 # Wikia
 
-> This is a wikia for this page: https://marianomurcianorodriguez.github.io/snh-wiki
-
+> This is a wikia for this page: https://chrysanthemum-throne.github.io/snh-wiki
 ## Sponsors
 
 <p align="center">
