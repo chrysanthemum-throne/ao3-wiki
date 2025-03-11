@@ -7,7 +7,7 @@
 - **Edad**: 
   - **Al inicio de la historia**: 24 años
   - **Durante los eventos posteriores**: 49-50 años
-- **Clan**: [[ShumatsuNoHibi/Personajes/Familia Fujiwara]]
+- **Clan**: Fujiwara
 - **Familia**:
   - **Hermano mayor**: [[Takahiro Fujiwara]]
   - **Cuñada**: [[Kazue Fujiwara]]
