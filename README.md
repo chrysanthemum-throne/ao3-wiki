@@ -9,6 +9,8 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+This is a test to check if npx quartz sync does sync all but not just the 'content' folder
+
 ## Sponsors
 
 <p align="center">
