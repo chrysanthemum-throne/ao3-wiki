@@ -1,10 +1,15 @@
+---
+tags:
+  - Fujiwara
+---
 
 **Nombre:** 和恵 藤原 (Kazue Fujiwara)  
 **Edad:** 30-40 años  
-**Rol:** Madrastra de Aiko, esposa de [[Takahiro Fujiwara]]  
+**Rol:** Madrastra de Aiko, esposa de [[Takahiro Fujiwara]] y posteriormente [[Satoshi Fujiwara]]
 **Relaciones:**  
-- [[Takahiro Fujiwara]] (Esposo, relación política)  
-- [[Kentaro Fujiwara]] (Hijo biológico, pero en realidad del hermano de Takahiro)  
+- [[Takahiro Fujiwara]] (Esposo, relación política, falsos hijos)  
+- [[Satoshi Fujiwara]] (Esposo tras la muerte de Takahiro, suplanta a su hermano)
+- [[Kentaro Fujiwara]] (Hijo biológico)  
 - [[Suzu Fujiwara]] (Hija biológica)  
 - [[Aiko Fujiwara]] (Hijastra, la desprecia)  
 

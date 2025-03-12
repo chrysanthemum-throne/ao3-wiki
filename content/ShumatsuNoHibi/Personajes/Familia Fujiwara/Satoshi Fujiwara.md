@@ -1,3 +1,7 @@
+---
+tags:
+  - Fujiwara
+---
 
 # Satoshi Fujiwara
 
@@ -13,7 +17,7 @@
   - **Cuñada**: [[Kazue Fujiwara]]
   - **Hijos**: [[Kentaro Fujiwara]] (ilegítimo), [[Suzu Fujiwara]] (legítima)
   - **Sobrina**: [[Aiko Fujiwara]]
-- **Lugar de residencia**: [[Hana no Yashiro]], [[Dominio Nara]], Japón
+- **Lugar de residencia**: Hana no Yashiro, Dominio Nara, Japón
 - **Estado**: Vivo
 
 ## Apariencia Física
@@ -26,7 +30,7 @@
 
 ## Personalidad
 - **Rasgos principales**:
-  - **Ambición**: Busca constantemente aumentar su poder dentro del clan [[Fujiwara]].
+  - **Ambición**: Busca constantemente aumentar su poder dentro del clan Fujiwara.
   - **Astucia**: Maestro de la intriga y la manipulación, prefiere trabajar en las sombras.
   - **Pragmatismo**: Valora la estabilidad y el poder por encima de la tradición o la lealtad.
   - **Frialdad**: Mantiene una distancia emocional, incluso con su propia familia.
