@@ -1,6 +1,6 @@
 # Wikia
 
-> This is a wikia for this page: https://chrysanthemum-throne.github.io/snh-wiki
+> This is a wikia for this page: https://chrysanthemum-throne.github.io/ao3-wiki
 ## Sponsors
 
 <p align="center">
