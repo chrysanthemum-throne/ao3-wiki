@@ -1,14 +1,17 @@
 {
 	"nodes":[
 		{"id":"0ff48c0e24908bb7","type":"group","x":-1360,"y":-640,"width":2480,"height":1080,"label":"Fujiwara Family"},
+		{"id":"eb8ba1f4928a8216","x":-69,"y":-1664,"width":250,"height":60,"type":"text","text":""},
+		{"id":"5c39347a9c66e3ed","type":"text","text":"","x":-659,"y":-1308,"width":250,"height":60},
 		{"id":"ba296cb8caf96351","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Takahiro Fujiwara.md","x":-740,"y":-620,"width":400,"height":400},
 		{"id":"628207548437ec00","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Satoshi Fujiwara.md","x":-160,"y":-620,"width":400,"height":400},
 		{"id":"b225fc5b656f722d","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Kentaro Fujiwara.md","x":-280,"y":12,"width":400,"height":400},
 		{"id":"cf77566bd5504cf7","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Suzu Fujiwara.md","x":120,"y":-40,"width":400,"height":400},
-		{"id":"d35297f50656ade6","type":"text","text":"","x":760,"y":-120,"width":240,"height":400},
 		{"id":"a407c1b5c0f90ea3","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Kazue Fujiwara.md","x":480,"y":-620,"width":400,"height":400},
 		{"id":"02f72e1cc5eb5299","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Kiyomi Fujiwara.md","x":-1280,"y":-620,"width":400,"height":400},
-		{"id":"7290d2f5b5fc95c1","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Aiko Fujiwara.md","x":-1020,"y":-100,"width":400,"height":400}
+		{"id":"7290d2f5b5fc95c1","type":"file","file":"ShumatsuNoHibi/Personajes/Familia Fujiwara/Aiko Fujiwara.md","x":-1020,"y":-100,"width":400,"height":400},
+		{"id":"aa42346669127d56","type":"text","text":"[Hannah OwO Parody (@hanxnahowo) / X](https://x.com/hanxnahowo)","x":-700,"y":-1397,"width":250,"height":60},
+		{"id":"d35297f50656ade6","type":"text","text":"","x":760,"y":-120,"width":240,"height":400}
 	],
 	"edges":[
 		{"id":"98b8b31b36905c52","fromNode":"ba296cb8caf96351","fromSide":"bottom","toNode":"7290d2f5b5fc95c1","toSide":"top","toEnd":"none"},
