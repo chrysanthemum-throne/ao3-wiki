@@ -112,8 +112,6 @@ La puerta está a punto de cerrarse delante de ella, su diestra, apoyada en su c
 
 La castaña se mueve con calma y lentitud hasta situarse junto al cuerpo que ahora le da la espalda. Con aquel elegante calzado empuja el cuerpo del contrario lo suficiente como para que se voltee. Su rostro, congelado bajo aquel encantamiento, está casi totalmente tenso como una figura de mármol aunque sus ojos sí que tiemblan suavemente. —¿Sabías que el ladrón es el único criminal que vuelve dos veces a la escena del crimen? —su voz, un susurro privado que la acompaña tras ponerse de cuclillas aún con los pies firmes en el suelo. —Tu colonia te delató, imaginaba que esperarías a tu compinche en un lugar transitado donde no levantar sospechas, mira que escoger el Caldero Chorrante...
 
-6.
-
 «No es que sea un mal plan, es que es estúpidamente predecible» Elania apunta a su cuerpo con la varita y con un movimiento circular los bolsillos del contrario se vacían. Su varita termina rodando por el suelo. —Me la quedo. —la guarda en su portavaritas en la cintura y luego observa con una gran sonrisa aquella pequeña bolsita negra que ahora descansa en su mano. —Bingo.
 
 Con el cuidado de un cirujano extrae aquel pequeño objeto, un minúsculo reloj de arena cuya orfebrería es tan compleja y delicada que mil duendes habrían evitado con sumo recelo que ningún sucio humano hubiera puesto sus grasientos dedos en aquel frío metal que formaba las bases de aquella diminuta pieza. Lo gira, la arena cae con cuidado en el contenedor opuesto gracias a la gravedad, no pasa nada «pero parece que está en perfectas condiciones» así que lo toma y con la varita lo hace desaparecer, desconvocándolo para que no sufra mas daños. —Bueno, nos vamos.
