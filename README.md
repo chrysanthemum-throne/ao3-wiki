@@ -1,6 +1,7 @@
 # Wikia
 
-> This is a wikia for this page: https://chrysanthemum-throne.github.io/ao3-wiki
+> This is a wikia for this page: https://chrysanthemum-throne.github.io/ao3-wiki o https://chrysanthemum-throne.github.io/ao3-wiki/index
+ 
 ## Sponsors
 
 <p align="center">
