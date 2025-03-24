@@ -8,4 +8,6 @@ longform:
   ignoredFiles:
     - JAMES PATON
 ---
-[[1. Anthon un vil monstruo]]
+[[1 Anthon un vil monstruo]]
+[[2 Los últimos preparativos]]
+[[3 Un mal presagio]]
