@@ -53,13 +53,13 @@ Con el teléfono en sus manos hace un selfie a los tres juntos y los tres ponen 
 > 
 > ¿Contenta?
 
-> GEORGIA RILEY
+> **GEORGIA RILEY**
 > 
 > (*con su amplia sonrisa*)
 > 
 > Muchísimo. Nada me gusta más que presumir al mundo de mis niños bonitos.
 
-> VIRGINIA RILEY
+> **VIRGINIA RILEY**
 > 
 > (*casi avergonzada*)
 > 
@@ -67,7 +67,7 @@ Con el teléfono en sus manos hace un selfie a los tres juntos y los tres ponen 
 
 Los tres van caminando a la misma altura e introduciéndose por aquellos arcos que daban lugar al interior de aquella grandiosa estación que casi dejaba la estación central de Nueva York por los suelos con aquel estilo arquitectónico tan victoriano.
 
-> GEORGIA RILEY
+> **GEORGIA RILEY**
 > 
 > Lo sé, créeme, Ginny, no se me olvida. Ni un poquito. Pero nunca se es suficientemente mayor para rechazar una foto con tu querida madre y tu adorable hermano.
 > 

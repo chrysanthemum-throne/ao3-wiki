@@ -4,7 +4,7 @@ cssclasses:
 ---
 **30 de Agosto, 2022 - LONDRES, Gran Bretaña**
 
-[[Anthon Blackwood]] se mantenía cabizbajo en aquella alborotada taberna. Mientras la mayoría de los parroquianos mantenían conversaciones amenas, él simplemente bebía. Un whisky de fuego, como _ellos_ lo llamaban, que recorría las inmensidades de su seca garganta. Sus ropas estan bastante arrugadas y su visión, casi borrosa, acompaña la pena y angustia que burbujea en lo más profundo de su estomago.
+[[Anthon Turner]] se mantenía cabizbajo en aquella alborotada taberna. Mientras la mayoría de los parroquianos mantenían conversaciones amenas, él simplemente bebía. Un whisky de fuego, como _ellos_ lo llamaban, que recorría las inmensidades de su seca garganta. Sus ropas estan bastante arrugadas y su visión, casi borrosa, acompaña la pena y angustia que burbujea en lo más profundo de su estomago.
 
 Bastó sólo una mirada a aquella gente, vestidos con esas túnicas tan extrañas y extravagantes, para que aquel sentimiento se encendiese otra vez. Anthon mira al tabernero con aquella agria expresión y golpea con dos dedos la madera de la barra. El opuesto, un hombre de la misma edad que Anthon, rondando los cuarenta, deja el paño con el que está frotando uno de los tantos vasos vacíos. El ingles no recibe respuesta alguna, simplemente oye el descorchar de aquel tapón y sólo alza la mirada al escuchar el licor translúcido llenar su vaso.
 
