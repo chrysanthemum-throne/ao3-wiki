@@ -163,9 +163,9 @@ Al menos puede dedicar el tiempo libre a leer ‘Encantamientos y Conjuraciones 
 > 
 > _Definitivamente eres especial, Bungee, por eso estabas destinada a estar conmigo_
 
-Repentinamente su puerta se abre y allí vislumbra a una preciosa joven de cabellos rojos como el fuego, hay un breve intercambio de miradas que apenas dura un instante. La puerta se abrió tan de golpe que provocó un sonoro estruendo que la pilló por sorpresa y la sobresaltó. Con cierta vergüenza CASSIOPEIA BRIGHTMOORE le sonrie y Elania no puede apartar su mirada de ella hasta que habla.
+Repentinamente su puerta se abre y allí vislumbra a una preciosa joven de cabellos rojos como el fuego, hay un breve intercambio de miradas que apenas dura un instante. La puerta se abrió tan de golpe que provocó un sonoro estruendo que la pilló por sorpresa y la sobresaltó. Con cierta vergüenza CASSIOPEIA BULSTRODE le sonrie y Elania no puede apartar su mirada de ella hasta que habla.
 
-> **CASSIOPEI BRIGHTMOORE**
+> **CASSIOPEI BULSTRODE**
 > 
 > ¡Disculpa la brusquedad!
 
@@ -173,13 +173,13 @@ Repentinamente su puerta se abre y allí vislumbra a una preciosa joven de cabel
 > 
 > Tranquila, sólo fue un susto de nada, no te preocupes.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Sólo venía avisar de que llegaremos a la estación de Hogsmade en cinco minutos
 
 Elania se fija en aquella brillante insignia que resaltaba, para mal, en aquellas femeninas ropas que le hacían un cuerpo delicado y bien definido resalta aquella letra P en oro brillante sobre la camisa blanca que lleva.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE
 > 
 > ¿Eso es un conejo?
 
@@ -191,13 +191,13 @@ Pregunta tras fijarse en aquel animal que ha encontrado un cómodo hueco entre e
 > 
 > Una coneja. Esta de aquí es Bungee y yo soy Elania, primer año aquí.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > ¡Claro, por eso no me suenas! Y mira que soy muy buena para las caras.
 
 La chica se toma las confianzas de dar un paso dentro y mira a la francesa antes de mirar a la pequeña en su hombro.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > (*muy educadamente*)
 > 
@@ -207,19 +207,19 @@ La chica se toma las confianzas de dar un paso dentro y mira a la francesa antes
 > 
 > Si ella se deja, es toda tuya. ¿Bungee?
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Mi madre me puso Cassiopeia pero, por favor, llámame Cass.
 
 Casi comienza a temblar cuando la conejita olfatea sus manos y al final accede a caminar hacia ellas.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE
 > 
 > ¡Pero qué cosita tan bonita, me muero de ternura! Eres nueva, ¿verdad?
 
 Ya lo sabía, pero se la notaba emocionada hasta el punto de sólo tener ojitos para esa cosita blanquita y blanda que era Bungee.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Conozco a casi la mayoría y, chica, me acordaría de alguien como tú, pareces salida de una revista.
 
@@ -233,7 +233,7 @@ Lo que me sorprende es que estés sola en este compartimento.
 
 Realmente quería estar a sus asuntos y sabía que rara vez alguien quería estar en el vagón donde estaban los críos más pequeños. Elania parece estar absorta en aquel bello rostro que contempla entre admiración y una silenciosa envidia.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > (*se autoinvita a sentarse junto a ella*)
 > 
@@ -249,7 +249,7 @@ Realmente quería estar a sus asuntos y sabía que rara vez alguien quería esta
 
 Cass acaricia la dulce cabeza de aquella pequeña coneja antes de que esta se siente en su regazo.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > ¿Y de qué escuela vienes?
 
@@ -261,7 +261,7 @@ Cass acaricia la dulce cabeza de aquella pequeña coneja antes de que esta se si
 > 
 > Aunque he visitado el castillo antes, pero fue una visita muy breve, me acompañó el nuevo profesor de Encantamientos.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Oh, pues creo que este año serás la comidilla del castillo.
 > 
@@ -273,7 +273,7 @@ Cass acaricia la dulce cabeza de aquella pequeña coneja antes de que esta se si
 
 Prefirió soltar algo de cotilleo y rumores que dar demasiados detalles _sensibles_ de su vida.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Y yo que pensaba que tendría que ponerte al día, Elania, aunque iremos al mismo curso.
 
@@ -283,7 +283,7 @@ Prefirió soltar algo de cotilleo y rumores que dar demasiados detalles _sensibl
 
 Aunque Elania tenía un exquisito olfato la experiencia de haber estado seis años en aquel castillo no tenía precio cuando ella era quien recién iba a pisarlo…oficialmente al menos.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE
 > 
 > (*ríe con dulzura*)
 > 
@@ -293,13 +293,13 @@ Aunque Elania tenía un exquisito olfato la experiencia de haber estado seis añ
 > 
 > _Oh, Morgana, ¿cómo puede sonar su risa tan dulce a mis oídos?_
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Sólo en Slytherin ya hay más de las que puedo contar.
 
 La conversación prosigue brevemente. Poco tiempo después Bungee da un salto hacia Elania cuando el sonido puntiagudo y profundo de la bocina de aquel tren anuncia la parada final de aquel trayecto. El exterior ahora está teñido de un precioso naranja y las farolas del exterior de la estación están perfectamente iluminadas.
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > Hemos llegado. He de regresar a por mi equipaje, pero nos veremos en la Selección, me encantaría ir contigo en el camino al castillo, pero ya le dije a mis amigas que iría con ellas.
 
@@ -311,7 +311,7 @@ La conversación prosigue brevemente. Poco tiempo después Bungee da un salto ha
 > 
 > _Más de lo que imaginas._
 
-> **CASSIOPEIA BRIGHTMOORE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > ¡Suerte en la Selección!
 
