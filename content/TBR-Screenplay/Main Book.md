@@ -1384,8 +1384,6 @@ Para su desgracia, lo que tendría que haber sido una enemiga se había converti
 
 «A los enemigos se los destruye, pero a Arwen…» joder, le costaba sacársela de la cabeza y aunque un castillo no era lugar para dos Reinas haría la vista gorda de momento.
 
-53.
-
 Era popular, como para no serlo¸ y pese a ser Slytherin, cosa que echaba para atrás a aquellos que se dejaban guiar por esas tonterías de las casas y su ‘significado’, todo el mundo la adoraba. Era popular y aunque hubiera querido no hubiera podido encontrar algo para atacarla cuando todo su cuerpo le pedía justo lo contrario.
 
 Obviamente, en sus primeros días de clases se estableció un precedente al que ya estaba acostumbrada; la jauría como ella los llamaba. Esos grupitos de alumnos, varones en su totalidad, que no dudan en dejar todo lo que están haciendo para acompañarte a tu siguiente clase. Se presentan, coquetean muy descaradamente y que buscan tentar tus intenciones. Muchas mujeres son tan estúpidas como para rechazar a esos chiots désespérés -cachorros desesperados- y ella juega con ellos, agradece su ayuda, deja que vayan tras ella y aunque nunca les da lo que quiere siempre les da la ilusión de algo más.
@@ -1545,7 +1543,7 @@ Dos manos se aferran a sus muslos, clavándole unas uñas afiladas, pero no dema
 —Eres una alumna muy traviesa, ¿no, Lisandra?
 
 —¿Qu-ién eres?
-
+	
 —Shhh…
 
 —¿C-c-cuanto lle…?
@@ -1728,7 +1726,7 @@ Ambos brindan, sin chocar las copas, dejando que el zumo de calabaza, sutilmente
 
   
 
-La cena no dura mucho más, pero Elania ha aprendido más de lo que se imaginan ellos dos. Así que una vez termina con aquel escueto plato y aquella bebida se levanta y se despide de aquella dulce parejita antes de volver a la sala común. El toque de queda es inminente y se cobija en su habitación, compartida con Arwen que estaba allí desde hacía un rato. Se ponen cómodas, charlan sobre cualquier cosa intrascendental, le cuesta prestar atención a lo que dice, no porque no le importe, sino porque le cuesta no perderse en aquellos orbes, incluso si le está hablando de ese Sltyherin con el que tan bien se lleva y que ella no soporta lo más mínimo.
+La cena no dura mucho más, pero Elania ha aprendido más de lo que se imaginan ellos dos. Así que una vez termina con aquel escueto plato y aquella bebida se levanta y se despide de aquella dulce parejita antes de volver a la sala común. El toque de queda es inminente y se cobija en su habitación, compartida con Arwen que estaba allí desde hacía un rato. Se ponen cómodas, charlan sobre cualquier cosa intrascendental, le cuesta prestar atención a lo que dice, no porque no le importe, sino porque le cuesta no perderse en aquellos orbes, incluso si le está hablando de ese Slytherin con el que tan bien se lleva y que ella no soporta lo más mínimo.
 
 Ellos tienen una conexión y aunque Arwen no lo vea, Elania si lo ve y aquello es algo que se clava en su pecho como puñales. A las diez deciden dormirse, generalmente trasnocharían mucho más, pero ella tiene otros planes muy diferentes a los de su compañera. Así que basta un encantamiento silenciador para abandonar aquella cama cubierta con esas cortinas sobre aquellos doseles.
 
@@ -1772,7 +1770,7 @@ Ella, sorprendentemente, obedece sin ningún tipo de queja. Acude a su lado, sen
 
 —Por tu apellido, más bien —algo que es casi irónico. —aunque en nuestros primeros años parecías una muñequita, tu cabello es inconfundible —asegura. —pero no me imaginaba que crecerías así. —extiende su diestra por el respaldo del sofá y se inclina contra ella. —Estas hecha una absoluta belleza, Lisandra. Hasta me das envidia. —palabras que pueden sonar inocentes, quizás, para otra persona menos para ella.
 
-El rubor se instala en sus tostadas mejillas y aparta la mirada suavemente. —Tu siempre has sido hermosa, hasta cuando te conocí en tercer curso, también has cambiado, mucho. Antes no eras así.
+El rubor se instala en sus tostadas mejillas y aparta la mirada suavemente. —Tu siempre has sido hermosa, hasta cuando te conocí recien llegada, también has cambiado, mucho. Antes no eras así.
 
 Sonríe ante aquellas palabras, incapaz de tomárselo como algo malo porque sabe que Lisandra es incapaz de albergar maldad en su corazón. —¿Yo he cambiado? —aquella falsa sorpresa inunda sus labios.
 
@@ -1910,7 +1908,7 @@ Aquel pelo que se posaba sobre sus hombros, ese color marrón y esas trazas clar
 
 «Serás idiota, Ron. »
 
-Llevabameses sin saber de él, su despedida fue bastante sonada y acabó manchando los periódicos unas cuantas semanas, quizás porque propiciaría la caída temprana de la ministra quien, lejos de renunciar por un divorcio se mantuvo al pie del cañon.
+Llevaba meses sin saber de él, su despedida fue bastante sonada y acabó manchando los periódicos unas cuantas semanas, quizás porque propiciaría la caída temprana de la ministra quien, lejos de renunciar por un divorcio se mantuvo al pie del cañon.
 
 —Es muy tarde. —le dice su viejo amigo.
 
