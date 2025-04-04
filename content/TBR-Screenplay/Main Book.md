@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f4d6
+---
 Chapter 2: Anthon: Un vil monstruo
 
 Chapter Text
@@ -2859,8 +2862,6 @@ Para cuando la extrae, Elania ya ha desenfundado la suya de su cintura y lejos d
 El público exclama y se echan más hacia atrás, Elania mueve su muñeca en un arco cerrado, susurrando, antes de que una onda invisible golpee el pecho de Jacob y salga rodando repetidas veces sobre la mesa hasta golpearse contra una de las que estaban en el lado opuesto. Un gruñido de dolor indica que aquello no ha sido precisamente suave y su varita ha salido volando.
 
 —Accio. —la varita acude a su mano y entonces voltea para ver el espectáculo del que es participe, y del que hubiera preferido escaparse. Guarda la suya en su funda colgada de la cintura antes de mirar al resto de aquel grupillo apostado a la puerta, y sin dilación, ni ceremonia alguna rompe aquella varita en dos trozos y la lanza al fuego de la chimenea de al lado.
-
-103.
 
 No dice nada más, ni siquiera dedica un último mensaje o amenaza. Retrocede para encarar aquella escalera de caracol y camina hasta el primer peldaño. Los tres alumnos de séptimo se miran entre ellos y se apartan. Ella los mira, pero no dice mucho, simplemente asciende peldaño a peldaño y sale de aquella sala común.
 

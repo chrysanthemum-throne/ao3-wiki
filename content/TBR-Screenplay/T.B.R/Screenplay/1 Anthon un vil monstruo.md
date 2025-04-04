@@ -4,7 +4,7 @@ cssclasses:
 ---
 **30 de Agosto, 2022 - LONDRES, Gran Bretaña**
 
-[[Anthon Turner]] se mantenía cabizbajo en aquella alborotada taberna. Mientras la mayoría de los parroquianos mantenían conversaciones amenas, él simplemente bebía. Un whisky de fuego, como _ellos_ lo llamaban, que recorría las inmensidades de su seca garganta. Sus ropas estan bastante arrugadas y su visión, casi borrosa, acompaña la pena y angustia que burbujea en lo más profundo de su estomago.
+Anthon Turner se mantenía cabizbajo en aquella alborotada taberna. Mientras la mayoría de los parroquianos mantenían conversaciones amenas, él simplemente bebía. Un whisky de fuego, como _ellos_ lo llamaban, que recorría las inmensidades de su seca garganta. Sus ropas estan bastante arrugadas y su visión, casi borrosa, acompaña la pena y angustia que burbujea en lo más profundo de su estomago.
 
 Bastó sólo una mirada a aquella gente, vestidos con esas túnicas tan extrañas y extravagantes, para que aquel sentimiento se encendiese otra vez. Anthon mira al tabernero con aquella agria expresión y golpea con dos dedos la madera de la barra. El opuesto, un hombre de la misma edad que Anthon, rondando los cuarenta, deja el paño con el que está frotando uno de los tantos vasos vacíos. El ingles no recibe respuesta alguna, simplemente oye el descorchar de aquel tapón y sólo alza la mirada al escuchar el licor translúcido llenar su vaso.
 
@@ -138,7 +138,7 @@ Esas últimas tres palabras resuenan con la fuerza de un gong en su cabeza. Más
 > (*lentamente lo empuja por los hombros hacia adelante*)
 > Saca ese cuchillo y haz que paguen por todo lo que te han hecho.
 
-Anthon obedece. Su diestra sostiene ahora aquella navaja; puede que no sea un arma intimidante pero su objeto ni siquiera le presta atención. Su agarre contra el mango de madera es muy fuerte y sus músculos se tensan antes de sujetar al mago [[James Paton|James Paton]] por su cuello.
+Anthon obedece. Su diestra sostiene ahora aquella navaja; puede que no sea un arma intimidante pero su objeto ni siquiera le presta atención. Su agarre contra el mango de madera es muy fuerte y sus músculos se tensan antes de sujetar al mago James Paton por su cuello.
 
 > **JAMES** **PATON**
 > (gruñe, confuso)

@@ -1,7 +1,7 @@
 **  
 1 DE SEPTIEMBRE DE 2022** **- KING'S CROSS, LONDRES**
 
-> [[**GEORGIA RILEY**]]
+> **GEORGIA RILEY**
 > 
 > Venga, ya estamos casi.
 
@@ -23,7 +23,7 @@ Georgia y Austin se detienen junto a una de las entradas mientras un gran númer
 > 
 > ¿Una foto para inmortalizarlo?
 
-> [[**AUSTIN RILEY**]]
+> **AUSTIN RILEY**
 > 
 > (*con una gran sonrisa*)
 > 
