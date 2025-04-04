@@ -1,5 +1,6 @@
 ![](https://static.wikia.nocookie.net/winxclubenespanol/images/a/ac/Abigail_Cowen_1.jpg/revision/latest?cb=20201212142014&path-prefix=es)
-**Nombre completo:** Cassiopeia Bulstrode Redmond-Grant 
+**Nombre completo:** Cassiopeia Bulstrode Redmond-Grant
+PB: Abby Cowen
 **Edad:** 16 años (nacida en 2006)  
 **Descripción física:**  
 - Cabello rojo fuego que cae en ondas naturales hasta la cintura  

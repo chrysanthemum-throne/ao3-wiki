@@ -1,5 +1,7 @@
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0SqGpsRyrYDYGQno3FCwlZ0RcOyS-lcdCA2U7A4mbH4lY-NYs6633CE8GYqOVGB7NPA&usqp=CAU)
 **Nombre completo:** Daniel Elias Blackworth  
 **Edad:** 46 años (nacido en 1976)  
+PB: Keanu Reeves
 **Descripción física:**  
 - Cabello castaño oscuro hasta los hombros, con algunas canas  
 - Barba recortada con precisión militar  

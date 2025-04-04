@@ -1,5 +1,5 @@
-**Nombre completo:** Eleanor Rosier  
-**Edad:** 52 años (nacida en 1972, aparenta 30)  
+**Nombre completo:** Samantha Rosier  
+**Edad:** 52 años (nacida en 1972, aparenta 40 y pocos)  
 **Descripción física:**  
 - Cabello rojo fuego  
 - Ojos verdes esmeralda  

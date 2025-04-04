@@ -54,9 +54,9 @@ ERIC TRAVERS, un hombre de figura alargada, un poco escuálida, entrado ya en un
 > 
 > Pero sí, os cité a todos. A los veintiocho.
 
-LADY ROSIER, una mujer de cincuenta años que podría aparentar una treintena; su cabello rojo fuego y sus ropas azules contrastan con la presencia lúgubre de la escena.
+SAMANTHA ROSIER, una mujer de cincuenta años que podría aparentar una treintena; su cabello rojo fuego y sus ropas azules contrastan con la presencia lúgubre de la escena.
 
-> **LADY ROSIER**
+> **SAMANTHA ROSIER**
 > 
 > ¿Y pensabas que el resto acudirían? Muchas de nuestras casas se hubieran matado hace veinte años.
 
@@ -68,9 +68,9 @@ LADY ROSIER, una mujer de cincuenta años que podría aparentar una treintena; s
 > 
 > E independientemente de que pasara en esos días todos tenéis un deber para con vuestra casa. Tenéis el sello y tenéis el privilegio de acudir, ante lo cual profundamente os lo agradezco.
 
-LORD MACMILLAN, el más anciano de los presentes, sin duda, tanto que aquellas ropas que lleva habrían pasado de moda hace treinta años, su voz, casi gutural, denota una vida agitada y llena de tribulaciones.
+ALISTAIR MACMILLAN, el más anciano de los presentes, sin duda, tanto que aquellas ropas que lleva habrían pasado de moda hace treinta años, su voz, casi gutural, denota una vida agitada y llena de tribulaciones.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > ¿A qué estás jugando, Ollivander?
 
@@ -92,7 +92,7 @@ Narcissa saluda con el respeto que debe de mantenerse en aquella mesa. Así es c
 
 Y que diferenciaban a los dignos de aquellos inferiores.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > Con esto hacemos...Macmillan, Malfoy, Rossier, Ollivander, Travers y Fawley.
 > 
@@ -262,7 +262,7 @@ Cuenta aquellos símbolos, reconoce todos y cada uno y a los que han acudido all
 
 Aquellas palabras provocan la furia de los varones, un golpe en la mesa por parte del más anciano de todos precede a una inquisitiva acusación.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > ¿Quién diablos crees tú que eres para menospreciar a mi Casa?
 > 
@@ -342,7 +342,7 @@ Lentamente las imágenes se deshacen, virutas de luz que caen y vuelven a restau
 > 
 > ¿Quién eres?
 
-> **LADY ROSIER**
+> **SAMANTHA ROSIER**
 > 
 > ¿Y qué buscas de nosotros?
 
@@ -358,7 +358,7 @@ Los varones, a excepción de Ollivander, bufan con sorna ante ese título, pero 
 > 
 > Conozco mejor que nadie la maldad de los muggles, sé de qué son capaces cuando se enfrentan a algo que desconocen y la crueldad con la que nos han tratado a todos los que estamos aquí.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > (*con molestia*)
 > 
@@ -378,7 +378,7 @@ Sus palabras resuenan como un eco distante. No hay embrujo que esté catalizando
 > 
 > Ya tuvimos un señor Oscuro.
 
-> **LADY ROSIER**
+> **SAMANTHA ROSIER**
 > 
 > Y sobra decir lo que todos opinamos de esos tiempos.
 
@@ -408,7 +408,7 @@ El silencio reina aquella mesa antes de que se produzca casi un unisonó y silen
 > 
 > Suena...interesante.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > Lo siento, pero yo no seguiré escuchando esta sarta de bobadas. ¿Qué la sangre no importa? ¡Mi familia lleva luchando por su estatus desde que tengo uso de razón.
 > 
@@ -426,7 +426,7 @@ Robert intenta interceder pero es interrumpida por la contraria quien le pide qu
 > 
 > esta oportunidad no se presentará una segunda vez; mi lealtad sólo se ofrece una vez y aunque no quiero instigar el miedo no me temblará la mano si rompes el pacto de secreto que has jurado con tu insignia.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > (*mira su insignia y luego a Robert quien se encoge de hombros*)
 > 
@@ -592,7 +592,7 @@ La mayoría de los presentes responden igual al unísono aunque Hena detecta muy
 > 
 > Esto concluye nuestra reunión; formalmente vuestras casas estarán bajo la protección de la Rosa Negra y al servicio de esta.
 
-> **LORD MACMILLAN**
+> **ALISTAIR MACMILLAN**
 > 
 > Si me disculpan.
 
@@ -608,7 +608,7 @@ Desaparece de escena con el orgullo herido, pero Hena sabe ahora está atado en 
 > 
 > Muchas gracias, por todo.
 
-Tras ella, Lady Rosier abandona la estancia en un vórtice invisible.
+Tras ella, Samantha Rosier abandona la estancia en un vórtice invisible.
 
 > **HENA ROSÉ**
 > 

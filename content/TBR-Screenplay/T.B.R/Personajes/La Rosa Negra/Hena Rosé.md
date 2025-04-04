@@ -1,5 +1,6 @@
 ![](https://gifdb.com/images/high/pink-future-nostalgia-dua-lipa-kz4arn4a44zn8wli.gif)
 **Edad:** 28 años (nacida en 1996)  
+PB: Dua Lipa
 **Descripción física:**  
 - Altura: 1.80m (con tacones)  
 - Cabello rubio platino y marrón natural en moño alto  

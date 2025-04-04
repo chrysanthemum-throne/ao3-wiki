@@ -4,6 +4,8 @@
 **Edad**: 32 años  
 **Ocupación**: Madre
 **Condicion**: Squibb
+PB: Brianne Howey
+
 #### Descripción Física  
 Una belleza rubia escandinava con piel sutilmente teñida por el sol y labios rojos pasión que contrastan con sus ojos azules. Viste con elegancia calculada - vestidos ceñidos, tacones altos y joyas discretas que enfatizan su figura esbelta. Lleva siempre un perfume cítrico con fondo dulce que deja estela.
 

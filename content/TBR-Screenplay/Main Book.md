@@ -2476,7 +2476,7 @@ Chapter Text
 
 El sonido de aquellos violines gritando apasionadamente, llenos de vida y fuerza, inunda por completo aquel estudio. La aguja del tocadiscos transmite aquella voz masculina que clama en un tono triste, pero hermoso, la tragedia de la muerte y la vida.
 
-El estudio es una más de aquellas salas del ala este del magnánimo hôtel particulier de Soubise, una imponente construcción de caliza parisina situada a apenas treinta segundos de paseo del canal del mismísimo Sena. Aquella finca, orgullo de la capital parisina, llevaba en pie ya casi ochocientos años y durante las últimas cinco generaciones, había sido adquirida por la familia d’Orléans donde se instalarían tras la brutal y sanguinolenta revolución que acabó con el orden establecido.
+El estudio es una más de aquellas salas del ala este del magnánimo hôtel particulier de Soubise, una imponente construcción de caliza parisina situada a apenas treinta segundos de paseo del canal del mismísimo Sena. Aquella finca, orgullo de la capital parisina, llevaba en pie ya casi ochocientos años y durante las últimas diez generaciones, había sido adquirida por la familia d’Orléans donde se instalarían tras la brutal y sanguinolenta revolución que acabó con el orden establecido.
 
 El hotel no es más que una gigantesca estructura de elegancia y clase.
 
@@ -2702,7 +2702,7 @@ Lenta y cuidadosamente aplica aquella loción protectora sobre los cortes, al pr
 
 Un suave bufido cómplice escapa del rostro de Amélie.
 
-—Sería un inconmensurable placer contar con la presencia de tan entusiasta chiquilla de alta cuna. —por alguna razón está poniendo un pomposo tono de voz y su mano libre está en su pecho mientras realiza una exagerada reverencia y algo en la escena debe de ser super divertido pues Elania rie, sinceramente, al escucharla.
+—Sería un inconmensurable placer contar con la presencia de tan entusiasta chiquilla de alta cuna. —por alguna razón está poniendo un pomposo tono de voz y su mano libre está en su pecho mientras realiza una exagerada reverencia y algo en la escena debe de ser super divertido pues Elania ríe, sinceramente, al escucharla.
 
 —¡No me hables así! Odio cuando me tratan de esa forma y más aún cuando tengo que hacerlo yo. —suelta molesta, aunque sin dejar de sonreír.
 
@@ -2760,7 +2760,7 @@ Cuanto más lo pensaba la francesa, más creía que Hogwarts era una prisión en
 
 99.
 
-La sala común de Slytherin es de las únicas que vive en casi una perpetua oscuridad en las mañanas, no es hasta bien ent rado el mediodía que los rayos de luz penetran lo suficiente en las profundidades del lago negro que se percibe un poco más de claridad sobre las antorchas que siempre están encendidas. En el salón principal sólo una de las ventanas está posicionada por encima del agua, aunque apenas se abre, el resto está decorado con muebles de la época victoriana, mantenidos a través de la magia de los elfos domésticos que pululaban, invisibles, por el castillo a todas horas.
+La sala común de Slytherin es de las únicas que vive en casi una perpetua oscuridad en las mañanas, no es hasta bien entrado el mediodía que los rayos de luz penetran lo suficiente en las profundidades del lago negro que se percibe un poco más de claridad sobre las antorchas que siempre están encendidas. En el salón principal sólo una de las ventanas está posicionada por encima del agua, aunque apenas se abre, el resto está decorado con muebles de la época victoriana, mantenidos a través de la magia de los elfos domésticos que pululaban, invisibles, por el castillo a todas horas.
 
 «¿Qué no había que la magia no pudiese superar?»
 

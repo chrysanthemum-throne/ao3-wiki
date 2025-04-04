@@ -7,6 +7,7 @@
 - **Nacionalidad**: Francesa
 - **Sangre/Criatura**: Purísima
 - **Habilidad**: Metamorfomagia
+- PB: Barbara Palvin
 
 ---
 

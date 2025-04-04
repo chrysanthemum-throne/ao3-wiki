@@ -3,6 +3,7 @@
 **Nombre completo**: Austin Riley  
 **Edad**: 11 años  
 **Casa**: Hufflepuff
+PB: Diesel La Torraca
 
 #### Descripción Física  
 Rubio algodonoso como [[Georgia Riley]], con gafas redondas que imitan adrede a [[Harry Potter]]. Viste ropa impecable - camisas abotonadas y pantalones de vestir - por insistencia de su madre. Su sonrisa tiene hoyuelos y su voz aún conserva tonos infantiles.

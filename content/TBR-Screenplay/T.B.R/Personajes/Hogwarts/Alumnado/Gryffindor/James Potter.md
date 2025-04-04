@@ -1,8 +1,9 @@
+![](https://i.redd.it/fancast-friday-benjamin-wadsworth-as-tom-riddle-v0-lt4uutn0yxee1.jpg?width=1200&format=pjpg&auto=webp&s=5b693a17dede312318040498ec0c2f0267d5ba48)
 #### Datos Básicos  
 **Nombre completo**: James Sirius Potter  
 **Edad**: 17 años  
 **Casa**: Gryffindor  
-
+PB: Benjamin Wadsworth
 #### Descripción Física  
 Alto y desgarbado como su abuelo, con el mismo pelo oscuro rebelde pero los ojos verdes heredados de [[Harry Potter]]. Su sonrisa fácil y desenfadada ilumina habitaciones enteras.
 

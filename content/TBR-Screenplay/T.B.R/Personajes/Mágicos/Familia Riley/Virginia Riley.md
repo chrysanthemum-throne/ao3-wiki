@@ -4,7 +4,7 @@
 **Apodos**: Ginny
 **Edad**: 15 años  
 **Casa**: Ex-Illvermony | Ravenclaw (5º)
-
+PB: Antonia Gentry
 #### Descripción Física  
 Tez café con leche y pelo afro rizado hasta los hombros que heredó de su padre biológico. Viste ropa casual (camisetas oversize, vaqueros ajustados) en rebelión contra el estilo elegante que [[Georgia Riley]] impone a [[Austin Riley]]. Sus ojos avellana tienen una mirada perspicaz que desafía su edad.
 

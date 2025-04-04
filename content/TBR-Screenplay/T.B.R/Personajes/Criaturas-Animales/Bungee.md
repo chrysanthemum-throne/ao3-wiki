@@ -1,6 +1,4 @@
----
-banner: Elements/Bungee.jpeg
----
+![](https://static.wikia.nocookie.net/over-the-moon/images/5/52/Bungee.jpeg/revision/latest?cb=20201027150416)
 **Especie:** Coneja europea (posiblemente mágica)  
 **Apariencia:**  
 - Pelaje blanco puro como nieve recién caída  
