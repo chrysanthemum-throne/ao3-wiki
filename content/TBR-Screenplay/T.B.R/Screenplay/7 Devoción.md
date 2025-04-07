@@ -2,11 +2,11 @@
 
 Las primeras dos semanas habían sido las más complicadas, sin duda; demasiadas caras, demasiados nombres, recovecos y marañas de relaciones que desentrañar. Tal como la directora McGonagall había propuesto, una alumna de quinto le realizó un tour por todo el castillo y para sorpresa de nadie, entender los pasadizos ocultos, las escaleras siempre cambiantes habían resultado lo más fácil de comprender; moverse por el castillo era confuso por una mala distribución no porque fuese complicado de entender.
 
-El Palacio de Beauxbatons escondía una gran cantidad de pasadizos ocultos, bodegones que escondían trucos y respondían a diferentes sonidos; paredes falsas que aparecían y desaparecían al día siguiente pero la estructura era mucho más plana, apenas dos plantas; sin contar las torres.
+El Palacio de Beauxbatons escondía una gran cantidad de pasadizos ocultos, bodegones que escondían trucos y respondían a diferentes sonidos; paredes falsas que aparecían y desaparecían al día siguiente pero la estructura era mucho más plana, apenas tres plantas; sin contar las torres.
 
-Lo que más le desagradó fue que la Sala Común de Slytherin estuviera en aquellas mazmorras; humedad, frío y ausencia casi total de luz. Daba igual si las antorchas estaban siempre encendidas pues el Lago Negro se apostaba contra tres de las cuatro grandes vidrieras. Allí los alumnos de primer año intentaban buscar con esmero, que derivaba pronto en frustración, a las hermosas sirenas.
+Lo que más desagradó a [[Elania d'Orléans]] fue que la Sala Común de Slytherin estuviera en aquellas mazmorras; humedad, frío y ausencia casi total de luz. Daba igual si las antorchas estaban siempre encendidas pues el Lago Negro se apostaba contra tres de las cuatro grandes vidrieras. Allí los alumnos de primer año intentaban buscar con esmero, que derivaba pronto en frustración, a las hermosas sirenas.
 
-Los dormitorios se dividían en diferentes cámaras, curiosamente eran las estancias menos frías pues al estar bajo tierra la temperatura se estabilizaba mucho más. Compartir habitación hubiera resultado desagradable cuando en el Palacio todas tenían habitaciones individuales (sí, compartían la misma estancia, pero cada chica tenía una habitación para ella) y no eran precisamente pequeñas. No es que ella lo encontrara tan desagradable¸ su compañera, Arwen Nightroad, era lo que cualquiera hubiese definido como la princesa del castillo.
+Los dormitorios se dividían en diferentes cámaras, curiosamente eran las estancias menos frías pues al estar bajo tierra la temperatura se estabilizaba mucho más. Compartir habitación hubiera resultado desagradable cuando en el Palacio todas tenían habitaciones individuales (sí, compartían la misma estancia, pero cada chica tenía una habitación para ella) y no eran precisamente pequeñas. No es que ella lo encontrara tan desagradable¸ su compañera, [[Arwen Nightroad]], era lo que cualquiera hubiese definido como la princesa del castillo.
 
 Iban al mismo curso (por eso compartían dormitorio), y en cuanto la vio la primera noche supo que estaba en problemas. Elania ha dedicado, y dedica, cada segundo de su vida a permanecer contra los elementos y a demostrarle al mundo que su belleza tan cuidada y preservada con tanto esmero es digna de robar todos los suspiros; ojos marrones claros, unas facciones afiladas y unos carnosos labios. Una hermosa princesa de cabellos rubios, su pelo largo hasta, casi, su cintura, una figura de escándalo en el que, aunque las dos tendrían las mismas medidas de busto, la muy perra ni siquiera tenía que esforzarse para resultar adorada por todos.
 
@@ -66,7 +66,7 @@ Desde el salón que precede al Gran Comedor camina hacia su derecha, allí tres 
 
 Ignorando cualquiera de estas subidas desciende los peldaños que prosiguen el camino que tiene delante. Frente a ella una gigantesca puerta cristalina, totalmente opaca pero que denota el inicio de los invernaderos de herbología.
 
-En su mente resuenan las palabras de la ofensivamente joven profesora Caulfielde:
+En su mente resuenan las palabras de la ofensivamente joven profesora [[Averil Caulfielde]]:
 
 > **AVERIL CLAUFIELDE**
 > 
@@ -76,7 +76,7 @@ Averil añade con aquella estúpida preciosa sonrisa, esos perlados dientes y aq
 
 > **AVERIL CAULFIELDE**
 > 
-> Os sugiero que sean originales. Valorare debidamente aquellos que vean más allá de lo evidente y no citen el ‘Manual de Hierbas Mágicas’ palabra por palabra; ya leí ese libro cuando tenía vuestra edad y no es de mis favoritos.
+> Os sugiero que sean originales. Valoraré debidamente aquellos que vean más allá de lo evidente y no citen el ‘Manual de Hierbas Mágicas’ palabra por palabra; ya leí ese libro cuando tenía vuestra edad y no es de mis favoritos.
 
 Mientras ríe, cubre su boca casi inocentemente, su cuerpo tiembla provocando deliberadamente que sus curvas se contonean dulcemente y allí, hasta ella misma Elania se ve absorbida por aquella imagen.
 
@@ -160,7 +160,7 @@ Algo que descubre fácilmente porque desde su escondite ve perfectamente esos ca
 > 
 > _¿Qué os trae aquí, tórtolos?_
 
-Su mano, aun así, no deja de escribir y el raspar de la punta del lápiz con la áspera fibra del pergamino no se detiene hasta que aquella frase termina con un seco punto final. Aunque ella no sabe el nombre del varón se llama ANDREW MACMILLAN, y ella no es otra que LISANDRA BLANC cuyo nombre si conoce aunque de unos cuantos años atrás.
+Su mano, aun así, no deja de escribir y el raspar de la punta del lápiz con la áspera fibra del pergamino no se detiene hasta que aquella frase termina con un seco punto final. Aunque ella no sabe el nombre del varón se llama [[Andrew Macmillan]], y ella no es otra que [[Lisandra Blanc]]cuyo nombre si conoce aunque de unos cuantos años atrás.
 
 > **ANDREW MACMILLAN**
 > 
@@ -490,7 +490,7 @@ Suelta burlonamente antes de cruzar la correa de su mochila contra su pecho ante
 
 A las ocho y media, puntuales como un reloj, los alumnos se reúnen todos juntos para la tercera, y última, comida del día. El Gran Comedor está a rebosar y en treinta minutos todos los alumnos regresan a sus dormitorios; el infame toque de queda que tanto desagrada a los más pequeños y los más mayores.
 
-Sin embargo, la mayoría de los alumnos cenan a diferentes horas por lo que incluso en esas ocasiones el Gran Comedor no está tan repleto como uno se esperaría. Así avanza por aquella larga mesa, inicialmente busca con la mirada a Arwen, pero no la encuentra así que conteniendo ciertas nauseas por el exceso de comida acaba encontrando un sitio en la segunda mesa, a un tercio del final de la misma.
+Sin embargo, la mayoría de los alumnos cenan a diferentes horas por lo que incluso en esas ocasiones el Gran Comedor no está tan repleto como uno se esperaría. Así avanza por aquella larga mesa, inicialmente busca con la mirada a Arwen, pero no la encuentra así que conteniendo ciertas nauseas por el exceso de comida acaba encontrando un sitio en la segunda mesa, a un tercio del final de la misma donde al menos reconoce a [[Albus Potter]].
 
 > **ELANIA D'ORLÉANS**
 > 
@@ -546,7 +546,7 @@ La morena contiene una suave risa que acaba propagándose hacia él.
 > 
 > A mí me pasó igual cuando llegué. Tardé más de dos años en...
 
-Un carraspeo de ROSE WEASLEY quien está a su lado corta su discurso seguido de un golpe en su muslo.
+Un carraspeo de [[Rose Weasley]] la chica que está sentada a su lado corta su discurso seguido de un golpe en su muslo.
 
 > **ROSE WEASLEY**
 > 

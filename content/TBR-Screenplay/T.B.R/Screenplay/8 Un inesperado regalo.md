@@ -2,7 +2,7 @@
 
 El Ministerio nunca duerme. Una frase que, a sus diecisiete años, Harry hubiera creído a ciencia cierta cuando Voldemort y sus mortífagos controlaron abiertamente el gobierno del mundo mágico británico y él se convirtió en el enemigo público número 1. Ahora que trabajaba allí desde los últimos quince años, quedaba más que claro que pasadas las ocho de la tarde aquellos pasillos de losas negras se volvían más silenciosos que nunca hasta las seis de la mañana del día siguiente.
 
-Las rondas nocturnas eran ya una tradición y las últimas semanas se habían vuelto tan agitadas que apenas dormía en casa, Ginny ya no era una jugadora de Quidditch profesional pero sí que entrenaba a un equipo de Quidditch que había ascendido a primera división, con el final del Mundial hacía unos pocos días ella había regresado a sus tareas como entrenadora y, ¿Quién sabe? Quizás en el siguiente Mundial era ella, junto a sus jugadoras, quienes sostuvieran la copa del mundo.
+Las rondas nocturnas eran ya una tradición para [[Harry Potter]] y las últimas semanas se habían vuelto tan agitadas que apenas dormía en casa, Ginny ya no era una jugadora de Quidditch profesional pero sí que entrenaba a un equipo de Quidditch que había ascendido a primera división, con el final del Mundial hacía unos pocos días ella había regresado a sus tareas como entrenadora y, ¿Quién sabe? Quizás en el siguiente Mundial era ella, junto a sus jugadoras, quienes sostuvieran la copa del mundo.
 
 > **HARRY POTTER (V.O.)**
 > 
@@ -12,7 +12,7 @@ Algo dentro de él se alegraba de esa soledad, prefería estar así a tener que 
 
 Una melodía suena en su cabeza mientras las puertas de aquel ascensor se cierran y lo conducen a la primera planta, es inconfundible y lleva en su cabeza muchísimo tiempo. Apenas dura un instante pues el ascensor anuncia con su voz ‘_Primera Planta: Ministro de Magia y Personal de Apoyo_’ pero mientras sus pasos lo llevan hasta la oficina situada más al fondo su mente lo lleva a otro tiempo; otro lugar; al punto donde más feliz fue y donde menos razones tenía para serlo.
 
-Golpea suavemente la firme puerta de madera negra mientras lee la placa con aquel nombre. Una voz femenina, poco después, le dice que pase.
+Golpea suavemente la firme puerta de madera negra mientras lee la placa con aquel nombre. La voz femenina de [[Hermione Granger]], poco después, le dice que pase.
 
 > **HARRY POTTER**
 > 
@@ -455,7 +455,7 @@ En cuanto pueden ver más allá, la escena provoca amargos recuerdos en los dos;
 
 Pero en cuanto los ojos del sospechoso chocan con la ministra su cuerpo vira rápidamente, aún suspendido y sus ojos brillan con fuerza en un aspecto tétrico y demoniaco.
 
-Su rostro ahora parece tener venas negras recorriendo su piel, sus ropas se abren, y de manera casi mecánica, como un muñeco cuyas articulaciones están oxidadas la señala. Y con voz gutural, Anthon habla por fin.
+Su rostro ahora parece tener venas negras recorriendo su piel, sus ropas se abren, y de manera casi mecánica, como un muñeco cuyas articulaciones están oxidadas la señala. Y con voz gutural, [[Anthon Turner]] habla por fin.
 
 > **ANTHON**
 > 
@@ -635,7 +635,7 @@ Chilla, frustrada apretando sus puños mientras aquella angustia se forma en el 
 
 > 		**BRISTOL, INGLATERRA**
 
-Aquella residencia dista demasiado de la elegancia que alguien se imaginaria que poseería el viceministro británico. Está situada en Bristol; una casa que no mide mas de noventa metros cuadrados pero cuyos colores de la madera resaltan frente al blanco típico de las casas de la zona. Allí, en aquel escueto salón iluminados por la lampara principal Akuna y Ollivanders yacen sentados uno junto al otro, una copa de licor en la mano del anfitrión y otra en la de su invitado.
+Aquella residencia dista demasiado de la elegancia que alguien se imaginaria que poseería el viceministro británico. Está situada en Bristol; una casa que no mide mas de noventa metros cuadrados pero cuyos colores de la madera resaltan frente al blanco típico de las casas de la zona. Allí, en aquel escueto salón iluminados por la lampara principal [[Roman Akuna]] y [[Robert Ollivander]] yacen sentados uno junto al otro, una copa de licor en la mano del anfitrión y otra en la de su invitado.
 
 > **ROBERT OLLIVANDER**
 > 
@@ -771,7 +771,7 @@ Queda claro que aquello causa una gran confusión en el opuesto.
 > 
 > Trabajas en el ministerio, seguro que tienes acceso a esta información.
 
-Decía ella con aquella mirada profunda mientras agitaba aquel tibio y claro café, ajenos al rumor de los clientes, muggles en su mayoria, que estaban a sus asuntos.
+Decía [[Hena Rosé]] con aquella mirada profunda mientras agitaba aquel tibio y claro café, ajenos al rumor de los clientes, muggles en su mayoria, que estaban a sus asuntos.
 
 > **HENA ROSÉ**
 > 
@@ -1131,7 +1131,7 @@ Juntos, entonces, avanzan en dirección hacia un retrato vacío situado tras el 
 > 
 > Oficina del primer ministro Británico, 10 Downing Street
 
-Al otro lado, un despacho bien iluminado por lámparas muestra un aspecto impoluto y victoriano. Con detalles y muebles de mas de dos cientos años de antigüedad. Un par de relojes de madera tintinean al mismo tiempo y una bandera del Reino Unido permanece doblada tras el regio despacho de naranja madera y un tapete verde oliva. En una amplia y acolchada negra silla se encuentra un hombre de tez morena, cabello negro y porta un traje de color azul oscuro con una corbata roja frente a una camisa blanca.
+Al otro lado, un despacho bien iluminado por lámparas muestra un aspecto impoluto y victoriano. Con detalles y muebles de mas de dos cientos años de antigüedad. Un par de relojes de madera tintinean al mismo tiempo y una bandera del Reino Unido permanece doblada tras el regio despacho de naranja madera y un tapete verde oliva. En una amplia y acolchada negra silla se encuentra [[Rishi Sunak]] hombre de tez morena, cabello negro y porta un traje de color azul oscuro con una corbata roja frente a una camisa blanca.
 
 > **HERMIONE GRANGER**
 > 
@@ -1149,7 +1149,7 @@ Inesperadamente el elegante boligrafo que esta usando casi sale volando de su ma
 > 
 > _Ese dichoso cuadro que no hemos conseguido quitar._
 
-> RISHI SUNAK
+> **RISHI SUNAK**
 > 
 > (*con visible desprecio*)
 > 

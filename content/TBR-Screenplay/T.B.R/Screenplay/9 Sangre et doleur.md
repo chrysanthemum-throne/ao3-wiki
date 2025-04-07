@@ -10,7 +10,7 @@ Con forma de U invertida encara el jardín principal de piedra enlosada y numero
 
 El estudio granate tiene su nombre por aquel papel que cubre las paredes, un oscuro color rojo como el mejor vino que se almacena en las bodegas subterráneas del hotel. Las cortinas cubren los grandes ventanales y sólo un foco de luz situado en el techo sirve de iluminación sobre aquel escenario de manera que absorbe toda la atención. La institutriz, Margaret, permanece con aquel bastón con el que marca el ritmo al que la joven debe de moverse.
 
-Mientras que la mujer posee un recatado traje oscuro y gris, la joven de apenas siete años viste las ropas apropiadas de una ballerina: un maillot de color negro que se ciñe desde sus hombros a su cintura, bajo estos unas medias blancas como la leche sobre aquellas curvas aún ajenas a los efectos de la adolescencia. Sobre su cintura se alarga un medio tul que deja al descubierto la parte de delante pero que, pomposamente, crea la ilusión de una figura a sus espaldas como la cola de un pavo real del mismo color de la nieve y sus llevan zapatillas de puntas de un color dorado.
+Mientras que [[Margaret Moreau]] posee un recatado traje oscuro y gris, [[Elania d'Orléans]] de apenas siete años viste las ropas apropiadas de una ballerina: un maillot de color negro que se ciñe desde sus hombros a su cintura, bajo estos unas medias blancas como la leche sobre aquellas curvas aún ajenas a los efectos de la adolescencia. Sobre su cintura se alarga un medio tul que deja al descubierto la parte de delante pero que, pomposamente, crea la ilusión de una figura a sus espaldas como la cola de un pavo real del mismo color de la nieve y sus llevan zapatillas de puntas de un color dorado.
 
 > **MARGARET MOREAU**
 > 
@@ -112,15 +112,19 @@ CAMILLE D'ORLÉANS usa su dulce voz en aquel tono tan imponente para aquellos qu
 > 
 > Suficiente.
 
-La única luz que predomina en aquella estancia cerrada y que enfocaba a su hija se apaga al instante y las persianas que cubrían aquellos grandes ventanales se abren por si solas dejando que la luz inunde aquella habitación. La menor entrecierra los ojos y es cuando contempla, con claridad, a su madre. Una elegante mujer de metro ochenta, suspendida del suelo por unos tacones de un palmo de altura lo que la hacía ver aún más increíble. Su cabello rubio como el oro brilla aún más cuando la luz del sol la abraza; Camille d’Orléans siempre ha sido reconocida como la mujer mas hermosa que ha pisado la nación francesa y no es para menos pues aquellos orbes verdes podían robar el aliento y la cordura con sólo un vistazo.
+La única luz que predomina en aquella estancia cerrada y que enfocaba a su hija se apaga al instante y las persianas que cubrían aquellos grandes ventanales se abren por si solas dejando que la luz inunde aquella habitación. La menor entrecierra los ojos y es cuando contempla, con claridad, a su madre. Una elegante mujer de metro ochenta, suspendida del suelo por unos tacones de un palmo de altura lo que la hacía ver aún más increíble. Su cabello rubio como el oro brilla aún más cuando la luz del sol la abraza, este es corto y liso, con un corte bob hasta un poco más abajo de la mandíbula. El peinado tiene una raya al costado, y cae de manera prolija enmarcando el rostro.; Camille d’Orléans siempre ha sido reconocida como la mujer mas hermosa que ha pisado la nación francesa y no es para menos pues aquellos orbes verdes podían robar el aliento y la cordura con sólo un vistazo.
 
-Todo en ella está cuidado al detalle, no hay nada que escape de su vestido azul celeste que deja ver unas elegantes y largas piernas, en ella no existe, sin embargo, la vulgaridad. Su cuerpo, aunque bien formado no expone más que un minúsculo escote, su afilado rostro se ve acentuado por unas facciones claramente definidas como el mármol mejor tallado y con aquellas finas joyas que siempre encontraban hueco en sus lóbulos, cuello o en sus muñecas.
+Todo en ella está cuidado al detalle, no hay nada que escape de su vestido blanco con caros brillos engarzados a lo largo de este, que deja ver unas elegantes y largas piernas, en ella no existe, sin embargo, la vulgaridad. Su cuerpo, aunque bien formado no expone más que un minúsculo escote, su afilado rostro se ve acentuado por unas facciones claramente definidas como el mármol mejor tallado y con aquellas finas joyas que siempre encontraban hueco en sus lóbulos, cuello o en sus muñecas.
+
+Junto al blanco y el brillo siempre hay un color azul presente; el color de la casa d'Orléans, tanto en su ropa como en sus labios que reflejan la luz a través del intenso y metálico azul que descansa en sus labios atrayendo por mucho la atención sobre el resto de su maquillaje.
+
 
 > **MARGARET MOREAU**
 > 
 > Señora d'Orléans.
 
-Margaret se echa hacia un lado apartándose de Elania por solo un paso.
+Margaret se echa hacia un lado apartándose de Elania por solo un paso para dejar paso a la señora de la casa: [[Camille d'Orléans]].
+
 
 > **CAMILLE D'ORLÉANS**
 > 

@@ -1,7 +1,7 @@
   
 **31 de Agosto, 2022 — Callejón Diagon, Londres, Gran Bretaña**
 
-HARRY POTTER avanza con presteza entre la gente. La mayoría de los magos y brujas que lo ven lo reconocen al instante; ese cabello agitado y aún revuelto, castaño, con esas redondas gafas y ese inconfundible símbolo que descansa en su frente y que tantos años lleva sin dolerle como si aquel hilo que antaño lo ataba a aquella profecía hubiera permanecido igual de amputado que aquella vez en el Bosque Prohibido. La última ocasión en la que pisó aquellas tierras oscuras y baldías junto a la escuela que conoció como su hogar.
+[[Harry Potter]] avanza con presteza entre la gente. La mayoría de los magos y brujas que lo ven lo reconocen al instante; ese cabello agitado y aún revuelto, castaño, con esas redondas gafas y ese inconfundible símbolo que descansa en su frente y que tantos años lleva sin dolerle como si aquel hilo que antaño lo ataba a aquella profecía hubiera permanecido igual de amputado que aquella vez en el Bosque Prohibido. La última ocasión en la que pisó aquellas tierras oscuras y baldías junto a la escuela que conoció como su hogar.
 
 Apenas se detiene para responder los saludos, no le gusta ser cortante, pero con aquella última noticia desde el Ministerio él mismo había dado la orden de mandar hasta dos patrullas de aurores que cubrieran las inmediaciones e interior del Callejón Diagon.
 
@@ -19,7 +19,7 @@ El interior es lo más parecido a un terreno de guerra; destellos de fuegos arti
 > 
 > _Si está con James definitivamente no habrán ido a Flourish & Blotts._
 
-Avanza un poco más hasta que pasa frente a la Heladeria Fortescue y es cuando los ve, a ambos. Por fin.
+Avanza un poco más hasta que pasa frente a la Heladeria Fortescue y es cuando ve a [[James Potter]] y a [[Albus Potter]]. Por fin.
 
 Los distingue con alguien que no reconoce, ¿se están despidiendo? Piensa en interrumpir pero no es que tenga tiempo siquiera de hacerlo para cuando se acerca.
 
@@ -98,9 +98,12 @@ No hay mucho gesto de confusión, como si todos los presentes supiesen de sobra 
 > **HARRY POTTER**
 > 
 > Ya habréis oído del accidente de esta madrugada, de momento Her…
+> 
 > (*carraspea*)
+> 
 > ...la Ministra Granger nos ha ordenado mantener la seguridad del callejón en vísperas de inicio del curso escolar. Nos dividiremos en parejas; cualquier incidente que detectéis, intervenid con cuidado y si descubrís algo realmente sospechoso actuad con cautela.
-> (hace una señal a su fiel compañero para que le siga)
+> 
+> (*hace una señal a su fiel compañero para que le siga*)
 > 
 Recordad: nuestra misión es mantener el orden, no agitar más las aguas.
 

@@ -1,6 +1,6 @@
 **ANDÉN 9 Y 3/4, ESTACIÓN DE KING'S CROSS, LONDRES.**
 
-La adolescente detiene sus pasos antes de subir al vagón; sus ropas muggles están perfectamente elegidas, su cabello moreno desciende delicadamente sobre sus hombros, un conjunto de cuero negro formado por una chaqueta negra con un corte horizontal y unos pantalones que se ciñen a las curvas de sus piernas realzando su figura. En ambas orejas descansan unas finas piezas de joyería, preciosos rectángulos de oro que tintinean con la escasa luz de aquel andén.
+[[Elania d'Orléans]] detiene sus pasos antes de subir al vagón; sus ropas muggles están perfectamente elegidas, su cabello moreno desciende delicadamente sobre sus hombros, un conjunto de cuero negro formado por una chaqueta negra con un corte horizontal y unos pantalones que se ciñen a las curvas de sus piernas realzando su figura. En ambas orejas descansan unas finas piezas de joyería, preciosos rectángulos de oro que tintinean con la escasa luz de aquel andén.
 
 Sus ojos, que contienen el brillo de todo un mar, ¿sus cejas? Impecables. ¿Los labios? Teñidos por un rosa durazno y para aquella ocasión una suave bruma de fragancia dulce y fresca decora su cuello descubierto. Antes de subir aquel escalón mira a su diestra, decenas de familias están despidiéndose de sus hijos antes de que estos suban al interior del expreso a Hogwarts pero es entre aquellos grupos de desconocidos donde la ve.
 
@@ -137,7 +137,7 @@ Desde que la compró, por un desorbitado precio, Elania sabía que algo inusual 
 
 > **ELANIA D'ORLÉANS**
 > 
-> Eres una conejita muy lista, Bungee.
+> Eres una conejita muy lista, [[Bungee]].
 > 
 > (*del baúl saca una pequeña bolsa de minizanahorias que Bungee acepta enérgicamente*)
 > 
@@ -163,9 +163,9 @@ Al menos puede dedicar el tiempo libre a leer ‘Encantamientos y Conjuraciones 
 > 
 > _Definitivamente eres especial, Bungee, por eso estabas destinada a estar conmigo_
 
-Repentinamente su puerta se abre y allí vislumbra a una preciosa joven de cabellos rojos como el fuego, hay un breve intercambio de miradas que apenas dura un instante. La puerta se abrió tan de golpe que provocó un sonoro estruendo que la pilló por sorpresa y la sobresaltó. Con cierta vergüenza CASSIOPEIA BULSTRODE le sonrie y Elania no puede apartar su mirada de ella hasta que habla.
+Repentinamente su puerta se abre y allí vislumbra a una preciosa joven de cabellos rojos como el fuego, hay un breve intercambio de miradas que apenas dura un instante. La puerta se abrió tan de golpe que provocó un sonoro estruendo que la pilló por sorpresa y la sobresaltó. Con cierta vergüenza [[Cassiopeia Bulstrode]] le sonríe y Elania no puede apartar su mirada de ella hasta que habla.
 
-> **CASSIOPEI BULSTRODE**
+> **CASSIOPEIA BULSTRODE**
 > 
 > ¡Disculpa la brusquedad!
 
@@ -356,7 +356,7 @@ Se inclina un poco más, deslizando su palma del cuarto trasero a hacia su lomo 
 
 La francesa no necesita mirar a su diestra para saber quién es. Su notorio olor a menta y restos de un profundo aroma caliente que se adhiere a sus fosas nasales es más que distintivo para su delicado olfato.
 
-Un varón de mediana edad se sienta a su lado, su cabello es moderadamente largo pues se detiene en sus hombros, su barba, crece de manera irregular en su rostro, aunque está casi perfectamente recortada y se une al bigote que cubre su labio superior, su nariz ancha y recta. Sus manos curtidas y ásperas cierran aquella gabardina negra antes de que mire a dos alumnos más que lo seguían.
+[[Daniel Blackworth]], un varón de mediana edad, se sienta a su lado. Su cabello es moderadamente largo pues se detiene en sus hombros, su barba, crece de manera irregular en su rostro, aunque está casi perfectamente recortada y se une al bigote que cubre su labio superior, su nariz ancha y recta. Sus manos curtidas y ásperas cierran aquella gabardina negra antes de que mire a dos alumnos más que lo seguían.
 
 > **DANIEL BLACKWORTH**
 > 
@@ -626,7 +626,7 @@ El ceño fruncido de su profesor le hace ver que eso no responde demasiado sus d
 > 
 > Eso es muy interesante, algo parecido a lo que verás con el Sombrero.
 
-La puerta frente a ellos se abre suavemente, lo justo para que la figura de la maga MINERVA MCGONAGALL aparezca frente a ellos.
+La puerta frente a ellos se abre suavemente, lo justo para que la figura de la maga [[Minerva McGonagall]] aparezca frente a ellos.
 
 > **MINERVA MCGONAGALL**
 > 

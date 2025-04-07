@@ -1,8 +1,8 @@
 **Nombre completo:** Eric Travers  
-**Edad:** 45 años (nacido en 1977)  
+**Edad:** 36 años (nacido en 1986)  
 **Descripción física:**  
-- Figura escuálida y encorvada  
-- Cabello gris ralo  
+- Figura escuálida   
+- Cabello marron
 - Usa bastón con emblema familiar  
 **Motivación/Historia:**  
 - Cabeza de la familia Travers  

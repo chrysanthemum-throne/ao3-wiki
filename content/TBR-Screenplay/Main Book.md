@@ -2919,7 +2919,7 @@ Una expresión de confusión aparece en el rostro del moreno.
 
 —Los Delacour, Maxime está en su cuarto mandato consecutivo, lo que convertiría a ti y a tus ¿primos? En la comidilla del palacio.
 
-—Oh, claro, Hugo y Dominique —casi se siente idiota por haberse olvidado de sus primos, pero los Weasley habían sido muy prolíficos y ahora resultaba casi imposible mantener la cuenta de hasta donde se extendían sus raíces. —Supongo que la fama de mi familia va mas allá de mi padre.
+—Oh, claro, Victoire, Dominique y Louis —casi se siente idiota por haberse olvidado de sus primos, pero los Weasley habían sido muy prolíficos y ahora resultaba casi imposible mantener la cuenta de hasta donde se extendían sus raíces. —Supongo que la fama de mi familia va mas allá de mi padre.
 
 La puerta del Gran Comedor se vislumbra en la distancia, la mayoría de los alumnos ya están dentro y apenas pasan por la fuente de sirenas, donde las estatuas de piedra llaman a los alumnos con aquel tono dulce y el agua danza desafiando las leyes de la gravedad. Albus intenta preguntar sobre lo que Elania ha comentado cuando un chico de ¿cuarto curso? ¿quinto? Se pone frente a él y camina de espaldas mientras inicia otra conversación.
 

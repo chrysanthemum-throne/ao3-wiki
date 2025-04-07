@@ -2,7 +2,7 @@
 
 El interior del Caldero Chorreante está a rebosar; familias que se preparan para los preparativos de última hora, las compras de último minuto que precedían a la salida que tendría lugar mañana a las once en la estación de King Cross y las inesperadas reuniones entre compañeros de aquella escuela mágica que no solo se encontraban antes de tiempo, sino que, a veces, reunían de pronta manera a los adultos que se habían distanciado de sus viejos contactos.
 
-ELANIA permanece sentada en un solitario taburete, aunque es relativamente temprano ella lleva despierta desde mucho antes y a diferencia del resto no entabla conversación con nadie. Frente a ella descansa una taza de café frappé que hace tintinear con una cuchara. En su mano libre sostiene aquella lista de materiales escolares que necesitará.
+[[Elania d'Orléans]] permanece sentada en un solitario taburete, aunque es relativamente temprano ella lleva despierta desde mucho antes y a diferencia del resto no entabla conversación con nadie. Frente a ella descansa una taza de café frappé que hace tintinear con una cuchara. En su mano libre sostiene aquella lista de materiales escolares que necesitará.
 
 > **ELANIA**
 > 
@@ -164,7 +164,7 @@ Aquella explicación provoca que el dependiente abra los ojos y su ceño se frun
 > 
 > No es que me importe, pero debería de deshacerse de este de aquí, si al Ministerio le llega la información de que tiene un objeto como ese en su inventario lo mínimo que podría esperar es pasarse un tiempo en Azkaban y ninguno de los dos queremos eso. El otro, seguramente piense que todo está bien, al fin y al cabo le pagaron por sus servicios y pensará que todo salió tal como lo planearon.
 
-El propietario del local, BARNACLES muestra un rostro más severo, más tampoco duda. Sin duda quien tiene delante de él supera por mucho sus expectativas y Elania lo nota en aquel rostro, ve el brillo de la sorpresa y la decisión que ha incendiado su testimonio.
+El propietario del local, [[Barnacles Jr]] muestra un rostro más severo, más tampoco duda. Sin duda quien tiene delante de él supera por mucho sus expectativas y Elania lo nota en aquel rostro, ve el brillo de la sorpresa y la decisión que ha incendiado su testimonio.
 
 > **BARNACLES**
 > 
@@ -339,7 +339,7 @@ Quien choca con ella es un joven de su edad, de cabellos morenos, verdes orbes y
 > 
 > No te preocupes.
 
-Alguien más acompaña a esa otra voz desconocida. Este aún no ha hablado pero sera ahora JAMES POTTER, quien interceda por su hermano, ALBUS POTTER.
+Alguien más acompaña a esa otra voz desconocida. Este aún no ha hablado pero será ahora [[James Potter]], quien interceda por su hermano, [[Albus Potter]].
 
 > **JAMES POTTER**
 > 
@@ -462,44 +462,42 @@ Albus, en cambio aprovecha el momento para mirarla. La diferencia de altura entr
 
 Elania sabe cuanto queda hasta la tienda pero decide seguir satisfaciendo la curiosidad del primogénito de los Potter en vez de acelerar el paso.
 
-**ELANIA D'ORLÉANS**
+> **ELANIA D'ORLÉANS**
+> 
+> Las hay, sí. Son fascinantes; irradian luz cuando las ve, se te acelera el pulso, tu cuerpo se siente incluso más cálido. Es como si el tiempo se detenga cuando las contemplas.
 
-Las hay, sí. Son fascinantes; irradian luz cuando las ve, se te acelera el pulso, tu cuerpo se siente incluso más calido. Es como si el tiempo se detenga cuando las contemplas.
+Se detiene en aquel discurso, sonríe, aquellos perlados dientes emanan con aquel brillo puro y natural. La francesa ladea el rostro suavemente ante ambos, sus cabellos rizados en las puntas descienden a un lado de su rostro como un manto protector. Presume de su belleza de manera fingida, tan natural que resulta incuestionable.
 
-Se detiene en aquel discurso, sonríe, aquellos perlados dientes emanan con aquel brillo puro y natural. La francesa ladea el rostro suavemente ante ambos, sus cabellos rizados en las puntas descienen a un lado de su rostro como un manto protector.Presume de su belleza de manera fingida, tan natural que resulta incuestionable.
-
-ElANIA D'ORLÉANS
-
-Pero siento decir que no tengo ni una gota de sangre de veela en mi cuerpo.
-
-(su diestra se apoya en su propio pecho, sonando casi entristecida)
-
-Aunque no es que haga falta, ¿o si?
-
-21.
+> **ELANIA D'ORLÉANS**
+> 
+> Pero siento decir que no tengo ni una gota de sangre de veela en mi cuerpo.
+> 
+> (*su diestra se apoya en su propio pecho, sonando casi entristecida*)
+> 
+> Aunque no es que haga falta, ¿o si?
 
 Así, con aquella retórica pregunta en el aire decide despedirse de los dos jóvenes.
 
-ELANIA D'ORLÉANS
-
-Gracias por guiarme, creo que puedo hacer el resto yo sola. Un placer conoceros...
+> **ELANIA D'ORLÉANS**
+> 
+> Gracias por guiarme, creo que puedo hacer el resto yo sola. Un placer conoceros...
 
 Sonríe antes de acercarse a ambos. Primero va hacia James, y deposita dos suaves besos en sus mejillas.
 
-Elania D'ORLÉANS
-
-(susurra dulcemente)
-
-James.
+> **ELANIA D'ORLÉANS**
+> 
+> (*susurra dulcemente*)
+> 
+> James.
 
 Su voz es un hálito cálido como la brisa del verano antes de que sus manos acaricien los brazos del contrario lentamente hasta alcanzar sus manos. Luego suavemente vira hacia el hermano menor y deposita otros dos suaves besos.
 
-ELANIA D'ORLÉANS
-
-Albus.
-
-(murmura en su oido)
-
-Nos vemos muy pronto.
+> **ELANIA D'ORLÉANS**
+> 
+> Albus.
+> 
+> (*murmura en su oído*)
+> 
+> Nos vemos muy pronto.
 
 Finalmente se separa, les dedica una dulce y encantadora sonrisa y su figura desaparece tras la puerta de aquel local abriéndose para ella.

@@ -1,23 +1,25 @@
 **  
 1 DE SEPTIEMBRE DE 2022** **- KING'S CROSS, LONDRES**
 
+La dulce voz de la hermosa [[Georgia Riley]], una belleza rubia y muy joven suena como un cantico casi angelical, su piel suavemente bronceada acompaña a una casi permanente sonrisa. 
+
 > **GEORGIA RILEY**
 > 
 > Venga, ya estamos casi.
 
-La dulce voz de aquella hermosa rubia suena como un cantico casi angelical, su piel suavemente bronceada acompaña a una casi permanente sonrisa. Sus cuidados labios están teñidos del rojo pasión, sus orbes azules se esconden tras aquellas gafas de sol que lleva para cubrirse del inusual día soleado que tiene lugar. El vestido que lleva es negro con un estampado floral de color amarillo narciso, la prenda se ata sobre su cintura, en un relajado nudo mientras que su escote forma de uve dibuja un camino donde un par de elegantes, y finas, cadenas de oro descansan.
+Sus cuidados labios están teñidos del rojo pasión, sus orbes azules se esconden tras aquellas gafas de sol que lleva para cubrirse del inusual día soleado que tiene lugar. El vestido que lleva es negro con un estampado floral de color amarillo narciso, la prenda se ata sobre su cintura, en un relajado nudo mientras que su escote forma de uve dibuja un camino donde un par de elegantes, y finas, cadenas de oro descansan.
 
 La base de su maquillaje, la sombra de ojos, el eyeliner; todo en ella está perfectamente medido para asombrar y hacerla relucir como una joya bajo la luz del Sol y lo luce con la confianza propia de una mujer que se siente en la cima del mundo, orgullosa y poderosa.
 
 Sus tacones negros repican con cada paso mientras caminan por la acera en dirección a la estación de tren. A su lado están sus hijos, ella con aquellos dulce quince años y su tez de color café que siempre hace que las miren por las razones equivocadas.
 
-A diferencia de su madre, VIRGINIA RILEY viste ropas una simple camisa gris con unos vaqueros skinny que se ciñen a sus piernas y unas deportivas, su tez es del precioso color de la leche con la cantidad justa de chocolate, su cabello afro y rizado descansa a la altura de sus hombros dándole un precioso volumen que siempre le ha encantado a su madre.
+A diferencia de su madre,  [[Virginia Riley]] viste ropas una simple camisa gris con unos vaqueros skinny que se ciñen a sus piernas y unas deportivas, su tez es del precioso color de la leche con la cantidad justa de chocolate, su cabello afro y rizado descansa a la altura de sus hombros dándole un precioso volumen que siempre le ha encantado a su madre.
 
 El pequeño, sin embargo, aún se viste como desea su madre y por eso va con una camisa y unos elegantes pantalones. ¿Los zapatos? Nuevos y relucientes del color del castaño, su rubio pelo, heredado de su madre, está perfectamente peinado y sobre su adorable nariz descansan unas redondas gafas, nunca le han hecho falta, pero siempre le han inspirado confianza pues su héroe favorito, el-niño-que-vivió las había llevado toda su vida.
 
 La estación de tren de King’s Cross no es sólo distinguible por su tamaño, ni por aquella gran torre que la hace resaltar frente al horizonte de la ciudad sino porque sus colores naranjas llaman naturalmente la atención.
 
-Georgia y Austin se detienen junto a una de las entradas mientras un gran número de británicos se preparan para tomar su tren en dirección a cualquiera que sea su destino, aun así nada les impide detenerse cuando esta saca el teléfono y mira a su hijo.
+Georgia y su hijo pequeño, [[Austin Riley]], se detienen junto a una de las entradas mientras un gran número de británicos se preparan para tomar su tren en dirección a cualquiera que sea su destino, aun así nada les impide detenerse cuando esta saca el teléfono y mira a su hijo.
 
 > **GEORGIA RILEY**
 > 
@@ -360,7 +362,7 @@ Esa rubia cabellera, su imponente figura que resta el aliento al a los hombres, 
 
 > **GEORGIA RILEY**
 > 
-> Disculpe, usted es Harry Potter, ¿Verdad?
+> Disculpe, usted es [[Harry Potter]], ¿Verdad?
 > 
 > (*lentamente se echa a un lado cual bailarina, descubriendo a aquel pequeño angel casi asustado*)
 > 

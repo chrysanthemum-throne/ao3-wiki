@@ -1,11 +1,11 @@
-  
-### Descripción física:
-- **Edad:** 45 años (nacida en 1977)
+  **![[Elements/Emma Frost (2).jpg]]****
+![[Elements/Emma Frost (3).jpg]]### Descripción física:
+- **Edad:** 45 años (nacida en 1977) (28 años cuando dio a luz)
 - **Altura:** 1.80m (sin tacones)
 - **Cabello:** Rubio dorado, liso y brillante
 - **Ojos:** Verdes esmeralda intensos
 - **Rasgos:** Facciones afiladas como "mármol tallado", piel perfecta
-- **Vestimenta:** Siempre impecable, vestidos elegantes con escotes discretos, joyas finas
+- **Vestimenta:** Siempre impecable, vestidos elegantes con escotes discretos, joyas finas, generalmente blancos o translucidos.
 
 ### Historia y posición:
 - **Residencia:** Hôtel de Soubise, París (propiedad familiar por 10 generaciones)

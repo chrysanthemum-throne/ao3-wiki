@@ -1,4 +1,4 @@
-![](https://static.wikia.nocookie.net/winxclubenespanol/images/a/ac/Abigail_Cowen_1.jpg/revision/latest?cb=20201212142014&path-prefix=es)
+![](https://static.cinemagia.ro/img/db/actor/81/96/43/abigail-f-cowen-407818l.jpg)
 **Nombre completo:** Cassiopeia Bulstrode Redmond-Grant
 PB: Abby Cowen
 **Edad:** 16 años (nacida en 2006)  

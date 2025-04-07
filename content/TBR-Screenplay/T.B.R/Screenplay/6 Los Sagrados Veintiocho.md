@@ -8,7 +8,7 @@ Aquel hogar hacía años que no se utilizaba para aquel propósito y, sin embarg
 
 En el interior varios magos y brujas se reúnen. Hace mucho, mucho tiempo que no se han reencontrado como iguales. Atrás quedan los tiempos en que la gloria e influencia de aquellas familias podía determinar el porvenir de la sociedad mágica. Aunque, ¿alguna vez habían estado acaso los veintiocho de acuerdo alguna vez? Ni si quiera hace trescientos años podían estar reunidos en una sola sala, ¿de que servía, entonces, aquella categoría?
 
-El sonido de una aparición en el interior de aquella sala hace que todos miren en aquella dirección. Un hombre y una mujer, el matrimonio FAWLEY, ambos rondan los cuarenta años y llegan del brazo del opuesto. Miran a los demás y apenas se produce un intercambio de miradas.
+El sonido de una aparición en el interior de aquella sala hace que todos miren en aquella dirección. Un hombre y una mujer, [[Jessica Fawley]] y [[Hector Paton]], ambos rondan los cuarenta años y llegan del brazo del opuesto. Miran a los demás y apenas se produce un intercambio de miradas. [Robert Ollivander] el anfitrión de aquel evento, los saluda de manera sincera y apropiada.
 
 > **ROBERT OLLIVANDER**
 > 
@@ -30,7 +30,7 @@ Su disculpa, sincera, tiene lugar antes de que el resto de los ahora siete integ
 > 
 > Tenía entendido que se convocaría a los Sagrados, en su totalidad.
 
-ERIC TRAVERS, un hombre de figura alargada, un poco escuálida, entrado ya en una avanzada edad. En su mano aún sostiene el bastón con el logo de su casa, su mujer, una especialmente joven, casi ofensivamente joven, se encuentra sentada a su lado en una posición mucho menos desgarbada y cómoda que él.
+[[Eric Travers]] es un hombre de figura alargada, un poco más joven que el matrimonio Fawley. En su mano aún sostiene el bastón con el logo de su casa, su mujer, una especialmente joven, casi ofensivamente joven, se encuentra sentada a su lado en una posición mucho menos desgarbada y cómoda que él.
 
 > **ERIC TRAVERS**
 > 
@@ -43,8 +43,8 @@ ERIC TRAVERS, un hombre de figura alargada, un poco escuálida, entrado ya en un
 > **ROBERT OLLIVANDER**
 > 
 > Tomo nota de eso, Travers.
-> 
-> Robert dedica una juiciosa mirada a la acompañante del varón.
+
+Robert dedica una juiciosa mirada a la acompañante del varón una mujer que apenas rozaría la mayoría de edad en el mejor de los casos.
 
 > **ROBERT OLLIVANDER (V.O.)**
 > 
@@ -54,7 +54,7 @@ ERIC TRAVERS, un hombre de figura alargada, un poco escuálida, entrado ya en un
 > 
 > Pero sí, os cité a todos. A los veintiocho.
 
-SAMANTHA ROSIER, una mujer de cincuenta años que podría aparentar una treintena; su cabello rojo fuego y sus ropas azules contrastan con la presencia lúgubre de la escena.
+[[Samantha Rosier]], una mujer de cincuenta años que podría aparentar una treintena; su cabello rojo fuego y sus ropas azules contrastan con la presencia lúgubre de la escena.
 
 > **SAMANTHA ROSIER**
 > 
@@ -68,13 +68,13 @@ SAMANTHA ROSIER, una mujer de cincuenta años que podría aparentar una treinten
 > 
 > E independientemente de que pasara en esos días todos tenéis un deber para con vuestra casa. Tenéis el sello y tenéis el privilegio de acudir, ante lo cual profundamente os lo agradezco.
 
-ALISTAIR MACMILLAN, el más anciano de los presentes, sin duda, tanto que aquellas ropas que lleva habrían pasado de moda hace treinta años, su voz, casi gutural, denota una vida agitada y llena de tribulaciones.
+[[Alistair Macmillan]], el más anciano de los presentes, sin duda, tanto que aquellas ropas que lleva habrían pasado de moda hace treinta años, su voz, casi gutural, denota una vida agitada y llena de tribulaciones.
 
 > **ALISTAIR MACMILLAN**
 > 
 > ¿A qué estás jugando, Ollivander?
 
-Robert abre la boca para responder, pero es cuando otra aparición tiene lugar al otro lado de la sala. Tras el vórtice, y el «thump» seco que lo acompaña, se muestra una mujer de unos sesenta, casi setenta años. Pese a todo el tiempo que ha pasado desde la última vez que se vieron, hará más de diez años incluso con el intercambio frecuente de cartas, NARCISSA MALFOY se ha mantenido impertérrita al paso del tiempo, ajena a este como una flor perfectamente conservada en un recipiente de cristal.
+Robert abre la boca para responder, pero es cuando otra aparición tiene lugar al otro lado de la sala. Tras el vórtice, y el «thump» seco que lo acompaña, se muestra una mujer de unos sesenta, casi setenta años. Pese a todo el tiempo que ha pasado desde la última vez que se vieron, hará más de diez años incluso con el intercambio frecuente de cartas, [[Narcisa Malfoy]] se ha mantenido impertérrita al paso del tiempo, ajena a este como una flor perfectamente conservada en un recipiente de cristal.
 
 Aún viste las ropas negras que la caracterizan y aunque lejos quedaban sus años de juventud- para una bruja, realmente, la edad sólo eran números dependiendo de cuanto quisiera uno permanecer ajena a estos. Los magos solían ignorar estas opciones, pensando que la madurez los hacía atractivos, mas importantes, pero las brujas eran justo lo contrario.
 
@@ -174,7 +174,7 @@ A su paso las luces de la casa se encienden y en cuestión de unos segundos se d
 
 > **ROBERT OLLIVANDER**
 > 
-> Viceministro Roman Akuna.
+> Viceministro [[Roman Akuna]].
 
 Robert hace ademan de levantarse del asiento para saludarlo, todos los allí presentes saben quién es. La mano derecha de los últimos dos ministros; de su apellido poco o nada se puede sacar en claro, pero incluso no siendo siquiera de estirpe pura, hasta el mismo viejo y anciano Macmillan sabe que debe de contener su viperina lengua.
 
@@ -198,7 +198,7 @@ Desvía su mirada de aquel molesto hombre antes de mirar a sus invitados que per
 > 
 > ¿Puedo?
 
-Su mirada se detiene en la mujer que permanece firme como una muñeca de cristal en una prístina y relajada postura sobre aquellos tacones. HENA ROSÉ por fin dice sus primeras palabras.
+Su mirada se detiene en la mujer que permanece firme como una muñeca de cristal en una prístina y relajada postura sobre aquellos tacones. [[Hena Rosé]] por fin dice sus primeras palabras.
 
 > **HENA ROSÉ**
 > 
@@ -212,7 +212,7 @@ Una sonrisa se muestra en el firme rostro del viceministro. Levemente carraspea 
 
 El tono de Akuna resulta profundo y severo casi como un profesor que corrige a un estudiante que se ha equivocado, pero sin la condescendencia esperada.
 
-> ROMAN AKUNA
+> **ROMAN AKUNA**
 > 
 > Los problemas con el mundo muggle se han incrementado un trescientos cuarenta y dos por ciento desde los últimos años y ni Shacklebolt, ni tampoco Granger, han estado a las alturas de las circunstancias.
 
