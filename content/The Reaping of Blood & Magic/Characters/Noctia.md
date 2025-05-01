@@ -1,0 +1,7 @@
+La joven yacía inconsciente sobre la mesa, el fuego de la chimenea dibujando sombras doradas sobre su piel pálida. Apenas dieciséis años, pero el peso de lo desconocido gravitaba sobre su frágil figura.
+
+**Su rostro**, de facciones delicadas pero afiladas por el hambre, evocaba a una muñeca abandonada: pómulos altos, una nariz pequeña y recta, y unos **labios carnosos**, ahora secos y agrietados. Sus **pestañas rubias**, pesadas por la lluvia, se agitaban levemente, como si lucharan por abrirse. Pero eran sus **ojos**—cuando por fin los abría—lo que helaba la sangre: un **azul glacial**, casi transparente, como lagos bajo la luna. No miraban; **atravesaban**.
+
+El cabello, **rubio ceniza y enmarañado**, se pegaba a su cuello y hombros en mechones húmedos. Cassius observó, con un escalofrío, cómo **los hilos dorados se oscurecían por momentos**, tornándose castaños, luego rojizos, como si su cuerpo no decidiera qué forma tomar.
+
+**Su cuerpo**, delgado pero no enclenque, llevaba la tensión de quien ha corrido toda la vida. Los harapos que la cubrían—una camisa holgada y unos pantalones de trabajo—no ocultaban sus **curvas prematuras pero pronunciadas**, el tipo que hacía que los vigilantes del Capitolio sonrieran demasiado cerca. **El corsé de tela gastada que llevaba bajo la ropa apenas contenía su busto**, y ahora, con cada respiración entrecortada, el tejido se tensaba peligrosamente. Adrian apartó la mirada, incómodo; Cassius, en cambio, notó algo más: **las marcas**.
