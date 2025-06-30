@@ -2,7 +2,7 @@ Para updatear:
 
 npx quartz sync
 
-Obviamente antes pon en cmd: C:\Users\MMU214\Documents\OneDrive\HTML\SNH
+Obviamente antes pon en cmd: cd C:\Users\MMU214\Documents\OneDrive\HTML\SNH
 
 Para pushear:
 
