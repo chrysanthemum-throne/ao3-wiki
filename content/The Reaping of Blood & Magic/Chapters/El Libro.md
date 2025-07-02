@@ -1,28 +1,17 @@
-EXT. DISTRITO 8 | NOCHE
 
-  
+EXT. DISTRITO 8 | NOCHE
 
 Nubes grises cubren el cielo del Distrito 8, la tormenta lleva ya seis horas y la cadena meteorológica de Panem anunciaba que aún quedarían cuatro más, por lo que no se detendría hasta bien entrado el amanecer.
 
-  
-
 El viento azota los tejados como si quisiera arrancarlos de cuajo. Las grandes chimeneas de las hilanderías mágicas silbaban por encima del feroz viento con un sonido hueco, tétrico, casi humano.
-
-  
 
 Las gotas caen con fuerza y violencia. A las afueras del asentamiento en el Distrito, las calles empedradas se quedan atrás el barro atrapa a cualquier infeliz que recorra las calles.
 
-  
-
 En el extremo sur, alejado del Mercado y de la Estación, usada para llevar las telas y productos de confección desde el Distrito hacia el Capitolio, se mantiene brevemente iluminado por las luces de las farolas que apenas pueden resistir el aguacero que cae sobre ellas.
 
-  
-
-Las fábricas funcionaban incluso de noche, aunque en menor capacidad. Los telares no se detenían como tampoco lo hacían las llegadas de materiales desde la Estación y se repartían a través de camiones a cada una de las fabricas. Desde el interior ni siquiera se perciben las gotas ni los destellos de los relámpagos que cruzan el cielo cada pocos minutos.
+Las fábricas funcionaban incluso de noche, aunque en menor capacidad. Los telares no se detenían como tampoco lo hacían las llegadas de materiales desde la Estación y se repartían a través de camiones a cada una de las fábricas. Desde el interior ni siquiera se perciben las gotas ni los destellos de los relámpagos que cruzan el cielo cada pocos minutos.
 
 Tampoco escuchan el sonido de las alarmas que se pierde como un susurro en mitad del vendaval.
-
-  
 
 Leve. Sólo perceptible para los agentes que, a esas horas, debían procurar que el toque de queda se mantuviese vigente, tanto para la población mágica y, especialmente, para los _servilis;_ aquellos que jamás nacieron con magia y que vivirían y morirían como los dóciles sirvientes que debían ser. El eco de algo grave: una señal de brecha.
 
@@ -30,53 +19,27 @@ Algo había cruzado el perímetro.
 
 El hechizo de seguridad —antiguo, delicado, pero aún efectivo— detectó una presencia que no debía estar ahí. No provenía de ningún registro.
 
-  
-
 En una plaza sin nombre, donde se amontonaban cajas olvidadas y telas descartadas por defectos había alguien. Nadie la había visto llegar. Estaba empapada, descalza y tirada en el suelo como quien recién cae desde una gran altura. Su ropa era extraña con cortes de tiempos mucho más antiguos ya olvidados. Y en sus manos...no había nada. Ni varita, ni mucho menos una identificación.
-
-  
 
 Sólo había un tatuaje en su muñeca: una rosa negra.
 
-2.
-
-  
-
 La fuerza de la lluvia termina por despertarla. Su mirada, nublada y perdida, está tan turbia como su mente que no es capaz de recordar donde esta, que hace allí ni es capaz de poner en orden sus pensamientos. La confusión es lo primero que se instala, más rápido incluso que el frío que cala sus huesos. Poco a poco se levanta, sus pies descalzos sienten la fresca piedra expuesta al agua.
-
-  
 
 En sus oídos sólo percibe un agudo pitido, trastabilla nada más levantarse y acaba cayendo contra aquellas cajas con la suerte de que las telas descartadas amortiguan algo su caída. Un relámpago ilumina su fino rostro y el destello trae al caos que es su mente una sola cosa. Su nombre.
 
-  
-
 NOCTIA.
-
-  
 
 Seis letras engravadas a fuego en su córtex.
 
-  
-
-Su ritmo cardíaco está demasiado acelerado y el aire le falta. Intenta levantarse, de nuevo. Consigue ponerse de rodillas pero unas severas nauseas la hacen vomitar. No comida, su estomago está vacío, pero un líquido translucido escapa de su garganta y deja un amargo sabor en su boca. Se limpia como puede, la lluvia ahora resulta quizás útil pero cuando esta aminora un poco las alarmas suenan con mas claridad.
-
-  
+Su ritmo cardíaco está demasiado acelerado y el aire le falta. Intenta levantarse, de nuevo. Consigue ponerse de rodillas, pero unas severas nauseas la hacen vomitar. No comida, su estómago está vacío, pero un líquido translucido escapa de su garganta y deja un amargo sabor en su boca. Se limpia como puede, la lluvia ahora resulta quizás útil pero cuando esta aminora un poco las alarmas suenan con más claridad.
 
 Peligro.
 
-  
-
-Su instinto de supervivencia arranca a todo motor justo cuando al fondo de aquella plaza emergen tres agentes. Aún a cuatro los ve claramente cuando un importuno relámpago cae en la torre superior de la fabrica justo a su lado. Primero llega el destello.
-
-  
+Su instinto de supervivencia arranca a todo motor justo cuando al fondo de aquella plaza emergen tres agentes. Aún a cuatro los ve claramente cuando un importuno relámpago cae en la torre superior de la fábrica justo a su lado. Primero llega el destello.
 
 Se ven.
 
-  
-
 Luego el retumbar.
-
-  
 
 Una explosión sonora que llena sus oídos mientras se levanta a toda prisa. Los uniformes blancos la señalan amenazadoramente y aunque hablan ella no escucha nada.
 
@@ -86,15 +49,13 @@ _¡Corre, corre!_
 
 Se impulsa con las manos, recupera la compostura y gira sobre su cuerpo para ir en dirección opuesta. Hay un par de calles, todas parecen igual de buenas así que le da igual. Apenas da sus primeros pasos cuando las grandes luces apostadas a lo largo de la periferia de aquella fábrica, tan alta que podía vislumbrar la ciudad como un mero juego de mesa.
 
-3.
-
 Los focos brillantes la iluminan de lleno mientras ella aún corre con todas sus ganas.
 
 VIGILANTE
 
 ¡Detente ahora mismo!
 
-La persecución cobra fuerza y, con ella, la lluvia retoma su energía. El sonido de las alarmas parece propagarse allá donde va. Necesita esconderse, ¿pero donde? La mayoría de casas son de no mas de dos plantas, pequeñas, separadas casi siempre. Podría intentar colarse pero no mientras tenga encima una de aquellas luces.
+La persecución cobra fuerza y, con ella, la lluvia retoma su energía. El sonido de las alarmas parece propagarse allá donde va. Necesita esconderse, pero ¿dónde? La mayoría de las casas son de no más de dos plantas, pequeñas, separadas casi siempre. Podría intentar colarse, pero no mientras tenga encima una de aquellas luces.
 
 Acelera más, el agua cae como un manto que casi la ciega, incapaz de ver más allá de un par de metros. Se abre paso saltando por encima de un cubo de basura cuando uno de los vigilantes que la estaba buscando y ella colisionan. Su arma cae al suelo y ella termina rodando un par de metros, golpeándose la frente con el bordillo.
 
@@ -102,9 +63,9 @@ El ensordecedor ruido de la lluvia se silencia y un pitido se instala en su cabe
 
 VIGILANTE
 
-¡Esta aquí! ¡Detente por orden del Capitolio!
+¡Está aquí! ¡Detente por orden del Capitolio!
 
-El vigilante agarra su rifle del suelo y rápidamente dispara en dirección a la joven pero esta justo desaparece hacia su diestra cuando la bala impacta en la pared de piedra y rebota hacia la oscura noche.
+El vigilante agarra su rifle del suelo y rápidamente dispara en dirección a la joven, pero esta justo desaparece hacia su diestra cuando la bala impacta en la pared de piedra y rebota hacia la oscura noche.
 
 VIGILANTE
 
@@ -114,9 +75,7 @@ VIGILANTE
 
 ¡Va hacia el suroeste! ¡Voy tras ella!
 
-Elania sigue corriendo tanto como le permiten sus pies aunque debe esquivar las luces proyectadas por los grandes focos. El mundo parece ir a una cantidad minúscula de fotogramas, cada paso que da parece inconexo con los demás. Su respiración resuena en su cabeza y su corazón amenaza con huir a través de su garganta. Gira bruscamente cuando una pared parece surgir de la nada. Apoya las manos en la pared buscando cualquier escape.
-
-4.
+Noctia sigue corriendo tanto como le permiten sus pies, aunque debe esquivar las luces proyectadas por los grandes focos. El mundo parece ir a una cantidad minúscula de fotogramas, cada paso que da parece inconexo con los demás. Su respiración resuena en su cabeza y su corazón amenaza con huir a través de su garganta. Gira bruscamente cuando una pared parece surgir de la nada. Apoya las manos en la pared buscando cualquier escape.
 
 NOCTIA
 
@@ -126,15 +85,15 @@ NOCTIA
 
 ¡Por favor!
 
-No sabe qué ha hecho mal pero sabe que van tras ella y su sexto sentido es quien la controla. Golpea sin éxito una puerta y como no tiene tiempo que perder vuelve a su huida. ¿Cuántos le siguen? ¿Dónde puede esconderse? Avanza hacia un pequeño bar, ya cerrado, cuando una voz amenaza tras ella, a apenas quince metros de distancia.
+No sabe qué ha hecho mal, pero sabe que van tras ella y su sexto sentido es quien la controla. Golpea sin éxito una puerta y como no tiene tiempo que perder vuelve a su huida. ¿Cuántos le siguen? ¿Dónde puede esconderse? Avanza hacia un pequeño bar, ya cerrado, cuando una voz amenaza tras ella, a apenas quince metros de distancia.
 
 VIGILANTE
 
 ¡Alto ahora mismo!
 
-Pero no le da la opción de detenerse. El retumbar de un disparo preciso impacta en el costado, a unos pocos centímetros sobre su cadera. La bala pasa de largo y una sensación de fuego intenso recorre su cuerpo. Noctia pierde las fuerzas pero al menos ha podido girar hacia la siguiente calle. Avanza con su mano tratando de cubrir aquel orificio sin mucho éxito pues tiene tanto un agujero de entrada como de salida.
+Pero no le da la opción de detenerse. El retumbar de un disparo preciso impacta en el costado, a unos pocos centímetros sobre su cadera. La bala pasa de largo y una sensación de fuego intenso recorre su cuerpo. Notica pierde las fuerzas, pero al menos ha podido girar hacia la siguiente calle. Avanza con su mano tratando de cubrir aquel orificio sin mucho éxito pues tiene tanto un agujero de entrada como de salida.
 
-Sus dientes castañean, su aliento jadea y las ondas de dolor se propagan como las olas de un agitado mar. Aquel callejón en el que se ha metido parecía una calle pero cuando se dio casi de bruces con una pared entendió que estaba equivocada. No había salida. Hay un par de puertas que dan a las casas al otro extremo.
+Sus dientes castañean, su aliento jadea y las ondas de dolor se propagan como las olas de un agitado mar. Aquel callejón en el que se ha metido parecía una calle cuando se dio casi de bruces con una pared entendió que estaba equivocada. No había salida. Hay un par de puertas que dan a las casas al otro extremo sin otra alternativa que volver atrás.
 
 NOCTIA
 
@@ -146,13 +105,11 @@ NOCTIA
 
 ¡Por favor, que alguien abra!
 
-La sangre cae a borbotones, mancha su ropa empapada y tiñe el suelo mojado poco a poco. Su visión se nubla, aún más, y escucha tras de si los pasos de lo inevitable. Se da la vuelta, dispuesta a encarar su fin. Su pelo rubio se desliza adhiriéndose a aquella puerta mientras sus piernas flaquean y se resbala hacia el suelo.
+La sangre cae a borbotones, mancha su ropa empapada y tiñe el suelo mojado poco a poco. Su visión se nubla, aún más, y escucha tras de sí los pasos de lo inevitable. Se da la vuelta, dispuesta a encarar su fin. Su pelo moreno se desliza adhiriéndose a aquella puerta mientras sus piernas flaquean y se resbala hacia el suelo.
 
 Sus ojos azules tiemblan, su respiración se vuelve profunda y entrecortada, su cuerpo se inclina hacia adelante y sus manos se aferran a su costado. Nota la sangre escurrirse del hueco entre sus dedos y como el calor se le escapa gota a gota.
 
 Uno de los tantos vigilantes la encuentra y no le da opción a réplica ni a defenderse, apunta con su arma en caso de que intente algo.
-
-5.
 
 VIGILANTE
 
@@ -176,7 +133,7 @@ VIGILANTE
 
 Cada parpadeo es un respiro entre dos mundos, y en medio del caos, las imágenes saltan de un punto a otro, como si la propia percepción estuviera a punto de romperse. La sensación de estar dentro de un sueño roto es insoportable, y el sonido de las alarmas parece deshacerse también, distorsionándose en un eco lejano, como si todo estuviera siendo tragado por una oscuridad sin fin.
 
-La sangre se escurre entre sus dedos aún mas, aquel denso líquido que trae frío a su cuerpo y un mareo absoluto. Al mirar a aquel hombre sin rostro, pues aún lleva el casco que lo cubre, siente como si algo en su mente la rozase. Sonríe, casi sin fuerzas, pálida como la blanca nieve.
+La sangre se escurre entre sus dedos aún más, aquel denso líquido que trae frío a su cuerpo y un mareo absoluto. Al mirar a aquel hombre sin rostro, pues aún lleva el casco que lo cubre, siente como si algo en su mente la rozase. Sonríe, casi sin fuerzas, pálida como la blanca nieve.
 
 VELIS (V.O)
 
@@ -184,9 +141,7 @@ _No te doblegues._
 
 No sabe de dónde viene. No sabe si fue real o sólo parte del delirio. Pero por primera vez desde que despertó... siente algo parecido a una dirección. Algo que había perdido la ha encontrado y al menos morirá completa.
 
-6.
-
-Incluso a través del casco percibe el odio que aquel vigilante tiene y lo ve apuntando a su cabeza cuando apenas está a un par de pasos de ella. Sus uñas se clavan en su propia carne. Intenta levantarse pero no puede así que sólo le queda mantener la mirada fija y sus dientes apretados como última rebeldía.
+Incluso a través del casco percibe el odio que aquel vigilante tiene y lo ve apuntando a su cabeza cuando apenas está a un par de pasos de ella. Sus uñas se clavan en su propia carne. Intenta levantarse, pero no puede así que sólo le queda mantener la mirada fija y sus dientes apretados como última rebeldía.
 
 El seguro se retira y un distinguible _clic_ suena justo antes de que llegue lo inevitable.
 
@@ -198,15 +153,15 @@ CASSIUS VELTRAN
 
 ¡Vamos!
 
-Avanza hacia ella tras dar otro golpe al soldado y aunque siente la tentación de robarle el arma sabe que eso sólo traerá mas problemas. Agarra el cuerpo y lo arrastra al interior. Medio minuto después vuelve, cierra y sale a por ella.
+Avanza hacia ella tras dar otro golpe al soldado y aunque siente la tentación de robarle el arma sabe que eso sólo traerá más problemas. Agarra el cuerpo y lo arrastra al interior. Medio minuto después vuelve, cierra y sale a por ella.
 
 CASSIUS VELTRAN
 
 Aguanta un poco.
 
-Aparta su mirada de aquella evidente herida y carga con ella hacia el interior de una de las puertas laterales, casi escondida por la oscuridad del callejón, saca una llave y la abre cerrando tras de si.
+Aparta su mirada de aquella evidente herida y carga con ella hacia el interior de una de las puertas laterales, casi escondida por la oscuridad del callejón, saca una llave y la abre cerrando tras de sí.
 
-El interior es una modesta casa, como tantas otras del distrito 8. Nada mas entrar le recibe un pequeño sofá, hay una chimenea encendida que ilumina el interior aunque todas las persianas están bajadas. La cocina es, bueno, una cocina y junto al modesto baño se encuentra un pequeño pasillo del que emerge otro hombre, cinco años mayor que Cassius, rondando ya la cuarentena.
+El interior es una modesta casa, como tantas otras del distrito 8. Nada más entrar le recibe un pequeño sofá, hay una chimenea encendida que ilumina el interior, aunque todas las persianas están bajadas. La cocina es, bueno, una cocina y junto al modesto baño se encuentra un pequeño pasillo del que emerge otro hombre, cinco años mayor que Cassius, rondando ya la cuarentena.
 
 ADRIAN VELTRAN aparece de las sombras para ser iluminado por el fuego cuando la puerta principal se cierra de golpe. Al principio
 
@@ -218,8 +173,6 @@ ADRIAN VELTRAN
 
 Cassius no responde, simplemente apoya a la chica contra una pared mientras corre hacia la mesa apartando todo lo que hay.
 
-7.
-
 ADRIAN VELTRAN
 
 (mira a la chica)
@@ -228,9 +181,9 @@ ADRIAN VELTRAN
 
 CASSIUS VELTRAN
 
-Ya me echarás la bronca luego, ¿quieres ayudarme de una vez o prefieres tener que cavar una tumba a escondidas? ¿No, verdad? ¡Pues venga!
+Ya me echarás la bronca luego, ¿quieres ayudarme de una vez o prefieres tener que cavar una tumba a escondidas? No, ¿verdad? ¡Pues venga!
 
-Molesto, Adrian no puede mas que acceder y retiran los platos y vasos, todos de latón con lo que no importaba demasiado si caían al suelo. Cassius desaparece a toda prisa mientras da una orden.
+Molesto, Adrian no puede más que acceder y retiran los platos y vasos, todos de latón con lo que no importaba demasiado si caían al suelo. Cassius desaparece a toda prisa mientras da una orden.
 
 CASSIUS VELTRAN
 
@@ -260,11 +213,7 @@ ADRIAN VELTRAN
 
 CASSIUS VELTRAN
 
-¿Tú que crees? Escuché los golpes en la puerta de al lado, agradéceselo a mi insomnio crónico.
-
-No iba a dejarla morir como un perro.
-
-8.
+¿Tú que crees? Escuché los golpes en la puerta de al lado, agradéceselo a mi insomnio crónico. No iba a dejarla morir como un perro.
 
 ADRIAN VELTRAN
 
@@ -296,7 +245,7 @@ CASSIUS VELTRAN
 
 Coge las otras. A la de tres: una, dos, ¡ya!
 
-Ambos hunden los dedos con fuerza abriéndose paso por aquella carne abierta, el orificio no es muy grande pero, claramente ha tocado algún vaso importante así que lo primero es rezar porque puedan controlarlo antes de que no haya tiempo de pensar. Empujan sus dedos y con cierta presión consiguen hacer un tapón que más o menos debería funcionar. Poco a poco retiran sus dedos y Adrian mira a su hermano.
+Ambos hunden los dedos con fuerza abriéndose paso por aquella carne abierta, el orificio no es muy grande, pero, claramente ha tocado algún vaso importante así que lo primero es rezar porque puedan controlarlo antes de que no haya tiempo de pensar. Empujan sus dedos y con cierta presión consiguen hacer un tapón que más o menos debería funcionar. Poco a poco retiran sus dedos y Adrian mira a su hermano.
 
 ADRIAN VELTRAN
 
@@ -312,13 +261,11 @@ ADRIAN VELTRAN
 
 ¿Rojas?
 
-9.
-
 CASSIUS VELTRAN
 
 ¡Apriétala por ambos lados, muy fuerte!
 
-Adrian obedece. Noctia gruñe de dolor pues es una extremadamente fuerte presión. La de unos brazos que se ganaban la vida cargando con grandes piezas de carne, podía con carnero adulto, con sus casi ochenta kilos sin mucho problema y era más hábil que su hermano con el cuchillo, aunque careciese de la delicadeza y precisión de él.
+Adrian obedece. Noctia gruñe de dolor pues es una extremadamente fuerte presión. La de unos brazos que se ganaban la vida cargando con grandes piezas de carne, podía con un carnero adulto, con sus casi ochenta kilos sin mucho problema y era más hábil que su hermano con el cuchillo, aunque careciese de la delicadeza y precisión de él.
 
 Cassius mientras deja el bisturí en las brasas del fuego. Sólo hacen falta unos segundos para que la pieza comience a arder tan intensa como los focos de luz que buscaban a aquella muchacha.
 
@@ -342,9 +289,7 @@ CASSIUS VELTRAN
 
 Aquí...late. Está aquí. Justo aquí, sí.
 
-No va a sacar los dedos, los usará para hacer palanca, exponiendo aún mas la herida para poder meter el bisturí sin quemar nada, incluso si ello la desangraba aún mas .
-
-10.
+No va a sacar los dedos, los usará para hacer palanca, exponiendo aún más la herida para poder meter el bisturí sin quemar nada, incluso si ello la desangraba aún más.
 
 CASSIUS VELTRAN
 
@@ -366,21 +311,19 @@ CASSIUS VELTRAN
 
 Va a doler, mucho.
 
-Son las únicas palabras que le dedica pero está decidido a taponarla y salvarle la vida.
+Son las únicas palabras que le dedica, pero está decidido a taponarla y salvarle la vida.
 
 La punta del acero se introduce en aquella herida, incluso sin tocar nada la piel al rojo vivo de la cavidad burbujea suavemente. Con delicadeza palpa aquella arteria abierta y entonces, tras unos instantes que parecen una eternidad, hunde la hoja, apoyándola contra la herida abierta.
 
-La piel chisporrotea, burbujeando e incluso un fino humo escapa de la herida. La joven patalea con fuerza y rabia mientras su cuerpo tiembla. Chilla, hasta el punto en el que pierde la voz. El dolor es profundo, infinito casi, su mente se ve sobrecogida rápidamente y su cuerpo comienza a cambiar. Su cabello cambia de color bruscamente, de rubio a un moreno oscuro, luego vira al platino platino, al verde y finalmente un rojo cegador. Su forma y longitud, sus rasgos fasciales viran, algo de lo que sólo es consciente Adrian que casi se echa hacia atrás.
+La piel chisporrotea, burbujeando e incluso un fino humo escapa de la herida. La joven patalea con fuerza y rabia mientras su cuerpo tiembla. Chilla, hasta el punto en el que pierde la voz. El dolor es profundo, infinito casi, su mente se ve sobrecogida rápidamente y su cuerpo comienza a cambiar. Su cabello cambia de color bruscamente, de moreno a un rubio cenizo, luego vira al castaño, al verde y finalmente un rojo cegador. Su forma y longitud, sus rasgos fasciales viran, algo de lo que sólo es consciente Adrian que casi se echa hacia atrás.
 
 CASSIUS VELTRAN
 
-¡No la sueltes joder!
+¡No la sueltes, joder!
 
-Los pataleos son mas sonoros y cuando retira la hoja aún ardiente es cuando lo percibe. La saliva escapa de la boca de Noctia, está al borde de la consciencia pero su cuerpo está cambiando, a trompicones, de manera brusca y parcial solo para, tras unos segundos, volver a aquel cabello liso y moreno que siempre había tenido.
+Los pataleos son más sonoros y cuando retira la hoja aún ardiente es cuando lo percibe. La saliva escapa de la boca de Noctia, está al borde de la consciencia, pero su cuerpo está cambiando, a trompicones, de manera brusca y parcial solo para, tras unos segundos, volver a aquel cabello liso y moreno que siempre había tenido.
 
-11.
-
-Ambos se miran, sin saber que acaban de contemplar sus ojos pero la razón vuelve a Cassius quien toma las vendas e improvisa de nuevo un bloqueo con las gasas para evitar cualquier otro sangrado menor. Con unas vendas rodean su costado y se asegura de que esté firme.
+Ambos se miran, sin saber que acaban de contemplar sus ojos, pero la razón vuelve a Cassius quien toma las vendas e improvisa de nuevo un bloqueo con las gasas para evitar cualquier otro sangrado menor. Con unas vendas rodean su costado y se asegura de que esté firme.
 
 Ninguno de los dos dice nada y, al final intentan comprender aquello tan mágico que han visto.
 
@@ -394,9 +337,9 @@ CASSIUS VELTRAN
 
 Nunca he visto una magia así, pensé que...sólo eran tonterías.
 
-Los recuerdos de antiguos libros de texto que han caído en su mano, escondidos en un doble fondo tras su propia habitación aparecen en su mente pero no tiene demasiado tiempo para perderse en sus divagaciones.
+Los recuerdos de antiguos libros de texto que han caído en su mano, escondidos en un doble fondo tras su propia habitación aparecen en su mente, pero no tiene demasiado tiempo para perderse en sus divagaciones.
 
-Tras unos segundos retira los vendajes con mucha menos sangre que antes y r´pidamente procede a suturarla lo mejor que puede. No hay mucho tejido herido y lo importante era sellar aquella zona. Cuando las punzadas sobre su piel terminan Cassius corta el hilo y deja la aguja en su lugar.
+Tras unos segundos retira los vendajes con mucha menos sangre que antes y, rápidamente, procede a suturarla lo mejor que puede. No hay mucho tejido herido y lo importante era sellar aquella zona. Cuando las punzadas sobre su piel terminan Cassius corta el hilo y deja la aguja en su lugar.
 
 De su kit de herramientas médicas coge un tubo de goma unido por ambos extremos a dos afiladas agujas. Rápidamente se clava la suya en su propio antebrazo y luego hace lo mismo con la chica que parece haberse calmado.
 
@@ -414,9 +357,7 @@ De momento vete a la cama, yo aguantare y me quedaré vigilándola.
 
 Tráeme una de las mantas para taparla.
 
-Cassius observa el reloj que hay en la cocina. Las cuatro de la mañana. Dejará que su hermano duerma hasta las seis, con suerte el tiempo aminoraría para esa hora y a las ocho retomaría su turno. No sabía cuanto tiempo permanecería inconsciente pero, como poco, serían una o dos horas más.
-
-12.
+Cassius observa el reloj que hay en la cocina. Las cuatro de la mañana. Dejará que su hermano duerma hasta las seis, con suerte el tiempo aminoraría para esa hora y a las ocho retomaría su turno. No sabía cuánto tiempo permanecería inconsciente, pero, como poco, serían una o dos horas más.
 
 Mientras espera, con el brazo en alto para que la gravedad hiciera todo el trabajo, nota que además tiene un hematoma. no demasiado grave en comparación, a un lado del rostro y una herida abierta en la cabeza. La limpia, no es demasiado grave así que podrá curarse sola en unos días, menos quizás si conseguía sustraer de la enfermería de los Vigilantes un poco de aquel mejunje herbovitalizante.
 
@@ -424,7 +365,7 @@ Aquel tipo de medicina estaba terminantemente prohibida para la población de lo
 
 CASSIUS VELTRAN
 
-¿De donde has salido?
+¿De dónde has salido?
 
 Una pregunta que no se responde.
 
@@ -442,11 +383,11 @@ CASSIUS VELTRAN
 
 Al menos el tiempo ha mejorado.
 
-El Sol había salido y aunque las calles estaban aún encharcadas el temporal de viento ya no se escuchaba. Brevemente agarra algo de comer, una hogaza de pan y un queso oloroso pero bastante más delicioso de lo que parecía. Tras limpiarse las manos acude a la mesa y examina a la chica.
+El Sol había salido y aunque las calles estaban aún encharcadas el temporal de viento ya no se escuchaba. Brevemente agarra algo de comer, una hogaza de pan y un queso oloroso, pero bastante más delicioso de lo que parecía. Tras limpiarse las manos acude a la mesa y examina a la chica.
 
 CASSIUS VELTRAN
 
-Vas a la tienda, ¿verdad? No te preguntarán pero...
+Vas a la tienda, ¿verdad? No te preguntarán, pero...
 
 ADRIAN VELTRAN
 
@@ -454,33 +395,29 @@ Tranquilo. Yo no he visto nada.
 
 Adrian se despide y Cassius retira la aguja del brazo de la muchacha. La examina, ahora con mejor luz, y no encuentra nada especialmente revelador. Por su fisionomía deduce que debe tener unos dieciséis años, no más.
 
-13.
+Su rostro, marcado por el hambre, pero con rasgos intensos y expresivos, parecía una mezcla de dureza y sensualidad: pómulos definidos, una nariz recta y unos labios llenos y ligeramente entreabiertos, ahora secos y agrietados. Sus pestañas largas y oscuras, pesadas por la lluvia, se agitaban levemente, como si lucharan por abrirse. Pero fueron sus ojos —cuando Cassius separó sus parpados con suavidad— lo que helaba la sangre: un azul glacial, casi transparente, como lagos bajo la luna.
 
-Su rostro, de facciones delicadas pero afiladas por el hambre, evocaba a una muñeca abandonada: pómulos altos, una nariz pequeña y recta, y unos labios carnosos, ahora secos y agrietados. Sus pestañas casi rubias, pesadas por la lluvia, se agitaban levemente, como si lucharan por abrirse. Pero fueron sus ojos —cuando Cassius separó sus parpados con suavidad— lo que helaba la sangre: un azul glacial, casi transparente, como lagos bajo la luna.
-
-El cabello, rubio ceniza y enmarañado, se pegaba a su cuello y hombros en mechones húmedos. Cassius recordó, con un escalofrío, cómo los hilos dorados se oscurecían por momentos, tornándose castaños, luego rojizos, como si su cuerpo no decidiera qué forma tomar.
+El cabello, oscuro y lacio, se pegaba a su cuello y hombros en mechones húmedos. Cassius recordó, con un escalofrío, cómo los hilos oscuros cambiaban por momentos, tornándose castaños, luego rojizos, como si su cuerpo no decidiera qué forma tomar.
 
 CASSIUS VELTRAN (V.O.)
 
 _Tuvo que ser por el dolor._
 
-Su cuerpo, delgado pero no enclenque, estaba cubierto por ropas simples. Aunque ahora podía ver con mas claridad la zona perforada de la herida y su camisa manchada de aquel rojo diluido por el agua que la había empapado. Ninguna de esas prendas hacía un favor por ocultar sus curvas prematuras pero pronunciadas, el tipo que hacía que los vigilantes del Capitolio sonrieran demasiado cerca.
+Su cuerpo, delgado, pero no enclenque, estaba cubierto por ropas simples. Aunque ahora podía ver con más claridad la zona perforada de la herida y su camisa manchada de aquel rojo diluido por el agua que la había empapado. Ninguna de esas prendas ocultaba sus curvas firmes y sensuales, esas que atraían miradas demasiado largas y cercanas de los vigilantes del Capitolio.
 
-Bajo la prenda había un corsé de tela gastada que apenas contenía su busto, y ahora, con cada respiración entrecortada, el tejido se tensaba peligrosamente. Cassius apartó la mirada, incómodo aunque más relajado al ver que nada más parecía herido y no quería tener que desnudarla.
+Bajo la prenda había un corsé de tela gastada que apenas contenía su busto, y ahora, con cada respiración entrecortada, el tejido se tensaba peligrosamente. Cassius apartó la mirada, incómodo pero aliviado de que no hubiera más heridas visibles, y también evitando tener que enfrentarse a esa vulnerabilidad desnuda.
 
-Decidió cargar con ella y depositarla suavemente en el sofá. Ahi descansaría mejor ahora que estaba más estable y las transfusiones habían tenido efecto.
+Decidió cargar con ella y depositarla suavemente en el sofá. Ahí descansaría mejor ahora que estaba más estable y las transfusiones habían tenido efecto.
 
 De uno de los cajones de la cocina sacó una nota y escribió algo. La deja en la mesa frente al sofá y tras meter un último tronco al fuego sale de su hogar y cierra, por si acaso. Aunque si ella quiere salir por la ventana no es que pueda evitárselo.
 
 Con el sol de frente camina hacia su objetivo: la Torre de Vigilancia 88.
 
-En su camino pasa rápidamente por la Plaza de la Llama Siliente. No pasa por alto, sin embargo, el gran número de vecinos y de agentes de la paz que charlan en pequeños círculos.
+En su camino pasa rápidamente por la Plaza de la Llama Silente. No pasa por alto, sin embargo, el gran número de vecinos y de agentes de la paz que charlan en pequeños círculos.
 
 CASSIUS VELTRAN (V.O.)
 
-_Me parece que nuestra invitada no ha pasado desapercibida__._
-
-14.
+_Me parece que nuestra invitada no ha pasado desapercibida._
 
 Se coloca la mochila cruzada con su equipo médico, ya limpio, y saluda brevemente con la cabeza a varios de sus vecinos. Intenta aparentar normalidad, y prisa, pero cuando pasa junto a un pequeño corrillo de personas una mano masculina le sujeta del hombro.
 
@@ -498,7 +435,7 @@ THALIA PAXOR
 
 ¿Te has enterado?
 
-Él frunce el ceño intentando fingir que no sabe de que va todo aquello aunque tiene una buena idea.
+Él frunce el ceño intentando fingir que no sabe de qué va todo aquello, aunque tiene una buena idea.
 
 CASSIUS VELTRAN
 
@@ -516,11 +453,11 @@ Sería algún servilis que intentaría escapar.
 
 Algo de lo que no les culparía.
 
-No es que el bienestar de los servilis fuese algo que les importase a muchos pero al menos tanto los Paxor como su familia opinaba que las personas seguían siendo personas. Quizás en su caso era el juramento hipocrático el que hablaba por él.
+No es que el bienestar de los servilis fuese algo que les importase a muchos, pero al menos tanto los Paxor como su familia opinaban que las personas seguían siendo personas. Quizás en su caso era el juramento hipocrático el que hablaba por él.
 
 RIVAN PAXOR
 
-No, que va. Bueno, no lo se, no del todo.
+No, que va. Bueno, no lo sé, no del todo.
 
 THALIA PAXOR
 
@@ -529,8 +466,6 @@ Escúpelo ya, te va a dar algo con tanto misticismo.
 RIVAN PAXOR
 
 Anoche encontraron el cuerpo de un Agente de la Paz, pero no he escuchado nada de que hayan capturado al que lo hizo.
-
-15.
 
 CASSIUS VELTRAN
 
@@ -546,9 +481,9 @@ Seguramente hagan una redada en los Barracones.
 
 THALIA PAXOR
 
-Sí, o lo usarán como excusa para explotarlos aún mas.
+Sí, o lo usarán como excusa para explotarlos aún más.
 
-Thalia trabajaba en los talleres de costura aunque no directamente en la fábrica y de los tres era quien más conocida los entresijos de aquellas gigantescas fábricas que nunca se detenían.
+Thalia trabajaba en los talleres de costura, aunque no directamente en la fábrica y de los tres era quien más conocida los entresijos de aquellas gigantescas fábricas que nunca se detenían.
 
 THALIA PAXOR
 
@@ -574,15 +509,13 @@ CASSIUS VELTRAN
 
 Si los Vigilantes me dan permiso, les echaré un vistazo.
 
-16.
-
 THALIA PAXOR
 
 Yo me encargo de eso.
 
 CASSIUS VELTRAN
 
-Pero no te prometo nada. Ya sabes como son con ellos.
+Pero no te prometo nada. Ya sabes cómo son con ellos.
 
 (un segundo de silencio)
 
@@ -598,7 +531,7 @@ Una broma amarga, de esas que tanto le gustaban a él.
 
 RIVAN PAXOR
 
-Y si te enteras de qué ha pasado pásate por mi puesto del Mercado.
+Y si te enteras de qué ha pasado pásate por mi puesto.
 
 CASSIUS VELTRAN
 
@@ -606,23 +539,21 @@ Por supuesto.
 
 El camino desde la plaza a la Torre 88 no tiene mucha pérdida. Es la más alta, más que las propias torres de las fábricas y su edificio, blanco y prístino, sólo se ve manchado con el lema de Panem; "Sin orden, no hay paz" en color rojo a los pies de la propia torre.
 
-El edificio funciona como sede de los Vigilantes, allí están los propios barracones, las oficinas y en algún lado estarían los despachos donde el Capitolio esgrimía su influencia y control para hacer su vida un constante infierno.
+El edificio funciona como sede de los Vigilantes, allí están los propios barracones, las oficinas y en algún lado estarían los despachos donde el Capitolio esgrimía su influencia y control para hacer de sus vidas un constante infierno.
 
 Curiosamente era de los lugares menos vigilados, mucho menos que la Hilandería Capitolina, la fábrica donde se producen los uniformes oficiales del Capitolio, y ni hablar de la Estación de Transporte. El único lugar por el que podía salir y entrar algo del resto de los distritos.
 
-Nada mas acercarse a la entrada principal le recibe uno de los agentes que controlaba el paso.
+Nada más acercarse a la entrada principal le recibe uno de los agentes que controlaba el paso.
 
 AGENTE
 
-Cassius, justo ibamos a enviar a alguien a buscarte
-
-17.
+Cassius, justo íbamos a enviar a alguien a buscarte
 
 CASSIUS VELTRAN
 
 Ya me he enterado. Un agente herido, ¿verdad?
 
-El agente abandona su puesto y lo acompaña por el interior. Estar ahí le revuelve el estómago pero Cassius sabe, perfectamente, que no tiene otra opción. Si quería poder ofrecer sus servicios a sus vecinos, necesitaba el beneplácito del Capitolio y sólo lo obtenía porque él era de los pocos que agachaba la cabeza aunque apretase los dientes.
+El agente abandona su puesto y lo acompaña por el interior. Estar ahí le revuelve el estómago, pero Cassius sabe, perfectamente, que no tiene otra opción. Si quería poder ofrecer sus servicios a sus vecinos, necesitaba el beneplácito del Capitolio y sólo lo obtenía porque él era de los pocos que agachaba la cabeza, aunque apretase los dientes.
 
 La enfermería se encuentra en un lateral de aquel edificio, las grandes ventanas permiten ver el exterior. El interior, sin embargo, está casi vacío. Hay un par de agentes, aún con el casco puesto, a excepción del que descansa en la cama.
 
@@ -630,7 +561,7 @@ AGENTE
 
 Por aquí.
 
-Tras entrar señala a los dos que están pendientes, quienes se levantan obedientemente. A veces Cassius imaginaba cómo serían sus rostros, uno nunca sabía cómo eran hasta que los veías borrachos en alguno de los bares que ofrecían sus servicios pero esos lugares solían ser del desagradado de la población del 8 quienes preferían sus lugares más privados.
+Tras entrar señala a los dos que están pendientes, quienes se levantan obedientemente. A veces Cassius imaginaba cómo serían sus rostros, uno nunca sabía cómo eran hasta que los veías borrachos en alguno de los bares que ofrecían sus servicios, pero esos lugares solían ser del desagradado de la población del 8 quienes preferían sus lugares más privados.
 
 Claro que era mejor no decir abiertamente que no servías a alguien que servía y empatizaba con el Capitolio.
 
@@ -640,7 +571,7 @@ Ya podéis marchaos, yo me quedo con él.
 
 El agente se quita el casco una vez están a solas, de todos los que hay, MARCO, es quizás el único con el que se lleva bien. Tan bien como una oveja puede fraternizar con un lobo.
 
-En la camilla el agente de la paz herido se mantiene mas o menos en un estado de semi inconsciencia, como es más que apreciable, tiene una profunda herida entre las costillas, Cassius se acerca para examinarla y brevemente mira al Agente.
+En la camilla el agente de la paz herido se mantiene más o menos en un estado de semi inconsciencia, como es más que apreciable, tiene una profunda herida entre las costillas, Cassius se acerca para examinarla y brevemente mira al Agente.
 
 CASSIUS VELTRAN
 
@@ -654,11 +585,9 @@ CASSIUS VELTRAN (V.O.)
 
 _Hasta ahí estamos de acuerdo._
 
-18.
-
 AGENTE MARCO
 
-Tobías estaba persiguiendo al sospechoso pero lo atacaron. No recuerda mucho, le tuvieron que golpear en la cabeza.
+Tobías estaba persiguiendo al sospechoso, pero lo atacaron. No recuerda mucho, le tuvieron que golpear en la cabeza.
 
 Cassius revisa su cráneo y, efectivamente, se perciben los síntomas de un hematoma a través de un apreciable chichón.
 
@@ -682,35 +611,31 @@ AGENTE MARCO
 
 Cassius examina la herida sentándose a un lado en un pequeño taburete. La hoja está clavada entre la octava y la novena costilla. Un golpe perfecto que había esquivado la protección de aquellos trajes y la defensa natural del cuerpo: los huesos.
 
-Brevemente mira su kit de medicina, tiene lo justo, nada demasiado avanzado, no podría colocar un dedo amputado -algo que no era poco común entre los servilis quienes manejaban los telares directamente. Y para casos como las amputaciones totales...bueno, la reimplantación ni siquiera se manejaba como una opción.
+Brevemente mira su kit de medicina, tiene lo justo, nada demasiado avanzado, no podría colocar un dedo amputado -algo que no era poco común entre los servilis- quienes manejaban los telares directamente. Y para casos como esos, o peores...bueno, la reimplantación ni siquiera se manejaba como una opción.
 
 CASSIUS VELTRAN
 
 No tengo equipamiento para algo tan quirúrgico, no al menos en mi kit.
 
-Cassius deja entrever lo evidente: él puede curar pero sus capacidades están más que limitadas.
-
-No es el único médico, hay más de cincuenta asentamientos por todo el Distrito pero el Capitolio no invierte en la salud de sus ciudadanos pues para ellos son solo los rebeldes a los que contuvieron, oprimieron y a los que dejarían morir de hambre si no necesitasen la mano de obra y sus recursos.
-
-19.
+Cassius deja entrever lo evidente: él puede curar, pero sus capacidades están más que limitadas. No es el único médico, hay más de cincuenta asentamientos por todo el Distrito, pero el Capitolio no invierte en la salud de sus ciudadanos pues para ellos son solo los rebeldes a los que contuvieron, oprimieron y a los que dejarían morir de hambre si no necesitasen la mano de obra y sus recursos.
 
 CASSIUS VELTRAN
 
 Necesitaré algo más avanzado.
 
-Entonces mira en dirección a la salita del fondo. Aquello era lo más parecido a un quirófano esterilizado pero en otras ocasiones no tendría acceso siquiera. Ahora que un Agente de la Paz estaba herido con severidad seguramente podría conseguir acceso.
+Entonces mira en dirección a la salita del fondo. Aquello era lo más parecido a un quirófano esterilizado, pero en otras ocasiones no tendría acceso siquiera. Ahora que un Agente de la Paz estaba herido con severidad seguramente podría conseguir acceso.
 
 CASSIUS VELTRAN
 
 Salvo que tengas otras cuatro manos que darme, necesito algún _picto,_ material de sutura...
 
-Marco duda pero la convicción de Cassius parece ser más que suficiente.
+Marco duda, pero la convicción de Cassius parece ser más que suficiente.
 
 CASSIUS VELTRAN
 
 Ayúdame a llevarlo, lo tratare ahí.
 
-Asi perdería menos tiempo.
+Así perdería menos tiempo.
 
 AGENTE MARCO
 
@@ -728,17 +653,15 @@ Preferiría no tener que tratarte por un desmayo, imagina si te das contra el pi
 
 AGENTE MARCO
 
-Sí, no quiero darte mas trabajo. Te dejo trabajar mejor. Pega un grito si necesitas lo que sea.
+Sí, no quiero darte más trabajo. Te dejo trabajar mejor. Pega un grito si necesitas lo que sea.
 
 Aunque respira un poco más tranquilo cuando abandona aquella sala aún tiene que tratar al agente herido. Marco está de espaldas a la sala, aunque se ha quedado dentro. Cosas del protocolo seguro.
-
-20.
 
 CASSIUS VELTRAN
 
 Has tenido suerte.
 
-Su nuevo paciente, por supuesto, está totalmente inconsciente, así que sabe que no le escuchara. Saca unas cuantas piezas de equipamiento de sus envoltorios de uno de los cajones y sus ojos se paran brevemente en un tarro de mejunje herbovitalizante, demasiado amplio como para esconderlo pero tendrá que usarlo igualmente. Toma el picto de _ralentización_ y lo sostiene en su mano.
+Su nuevo paciente, por supuesto, está totalmente inconsciente, así que sabe que no le escuchara. Saca unas cuantas piezas de equipamiento de sus envoltorios de uno de los cajones y sus ojos se paran brevemente en un tarro de mejunje herbovitalizante, demasiado amplio como para esconderlo, pero tendrá que usarlo igualmente. Toma el picto de _ralentización_ y lo sostiene en su mano.
 
 CASSIUS VELTRAN
 
@@ -758,19 +681,15 @@ Cassius limpia la zona con rapidez, empapando gasas en antiséptico mientras su 
 
 El picto de su mano se activa; lo apoya cerca de la herida, y esto hace que la sangre deje de fluir, como si el tiempo se hubiera ralentizado para la herida y aún creyera estar intacta.
 
-Con la hoja fuera, introduce una cánula fina para irrigar la cavidad con solución salina, arrastrando coágulos y restos metálicos microscópicos. Luego inspecciona la profundidad con una sonda, buscando signos de hemorragia persistente.
+Con la hoja fuera, introduce una cánula fina para irrigar la cavidad con solución salina, arrastrando coágulos y restos metálicos microscópicos. Luego inspecciona la profundidad con una sonda, buscando signos de hemorragia persistente. Al confirmar que el sangrado es menor, toma una pinza y sutura los músculos intercostales primero, nudo tras nudo con hilo reabsorbible. Finalmente, aproxima los bordes de la piel y los cierra con puntos limpios y tensos.
 
-Al confirmar que el sangrado es menor, toma una pinza y sutura los músculos intercostales primero, nudo tras nudo con hilo reabsorbible. Finalmente, aproxima los bordes de la piel y los cierra con puntos limpios y tensos.
+La respiración propia parece volver a la normalidad y la tensión vuelve a sus manos con fuerza, sus dedos tiemblan y él necesita hasta de unos segundos para recuperar la calma. Sabía que podría haber acabado con aquel hombre en un instante, que ese perro del Capitolio podía haber tomado su último aliento, así como que el más mínimo error podría habérselo llevado por delante.
 
-21.
+Esa tensión siempre se le acumulaba en el pecho como un clavo que lo perforaba hasta el final. Envuelve las herramientas guardándolas en el interior de su bolsa con cierto cuidado, ya las limpiara más tarde. Después confirma a través de los cristales que Marco no esté mirando.
 
-La respiración propia parece volver a la normalidad y la tensión vuelve a sus manos con fuerza, sus dedos tiemblan y él necesita hasta de unos segundos para recuperar la calma. Sabía que podría haber acabado con aquel hombre en un instante, que ese perro del Capitolio podía haber tomado su último aliento así como que el más mínimo error podría habérselo llevado por delante.
+Entonces recoge la crema herbovitalizante y furtivamente guarda un poco de aquel caro mejunje casi translúcido en un pequeño vial. Lo cierra y durante un instante duda donde guardarlo, pero decide que lo mejor es enterrarlo al fondo de la bolsa y comienza a dejar el resto de las cosas en el estante en el que las ha encontrado. Se toma el tiempo de, al menos, limpiar el equipamiento que no es suyo, si lo necesitan será mejor tenerlo ya limpio y listo para usar.
 
-Esa tensión siempre se le acumulaba en el pecho como un clavo que lo perforaba hasta el final. Envuelve las herramientas guardándolas en el interior de su bolsa con cierto cuidado, ya las limpiara mas tarde. Después confirma a través de los cristales que Marco no esté mirando.
-
-Entonces recoge la crema herbovitalizante y furtivamente guarda un poco de aquel caro mejunje casi translúcido en un pequeño vial. Lo cierra y durante un instante duda donde guardarlo pero decide que lo mejor es enterrarlo al fondo de la bolsa y comienza a dejar el resto de cosas en el estante en el que las ha encontrado. Se toma el tiempo de, al menos, limpiar el equipamiento que no es suyo, si lo necesitan será mejor tenerlo ya limpio y listo para usar.
-
-Tras lo que ha sido casi una hora retrocede hasta la puerta y nada mas abrirla Marco decide mirar en su dirección.
+Tras lo que ha sido casi una hora retrocede hasta la puerta y nada más abrirla Marco decide mirar en su dirección.
 
 AGENTE MARCO
 
@@ -778,19 +697,15 @@ AGENTE MARCO
 
 CASSIUS VELTRAN
 
-Sí. Gracias al picto de ralentización no hubo apenas pérdida de sangre. Aun así no lo muevas, debe estar en observación al menos dos dias hasta que le quite los puntos.
+Sí. Gracias al picto de ralentización no hubo apenas pérdida de sangre. Aun así, no lo muevas, debe estar en observación al menos dos días hasta que le quite los puntos.
 
 AGENTE MARCO
 
 Entendido.
 
-Cassius amenaza con marcharse sin muchos preámbulos, aquel edificio le da nauseas y preferiría estar tomando el aire libre por más ventanas que hubiesen abiertas.
+Cassius amenaza con marcharse sin muchos preámbulos, aquel edificio le da náuseas y preferiría estar tomando el aire libre por más ventanas que hubiesen abiertas.
 
-Se aproxima a la puerta cuando esta se abre de golpe. Un hombre de unos cincuenta y cinco años, de gesto severo y firme mira el exterior y examina a Cassius casi agresivamente con la mirada.
-
-Se trata del CAPITAN VEGA quien era de los pocos que nunca llevaban el casco y era tan reconocible como su voz; un látigo que separaba la carne.
-
-22.
+Se aproxima a la puerta cuando esta se abre de golpe. Un hombre de unos cincuenta y cinco años, de gesto severo y firme mira el exterior y examina a Cassius casi agresivamente con la mirada. Se trata del CAPITAN VEGA quien era de los pocos que nunca llevaban el casco y era tan reconocible como su voz; un látigo que separaba la carne.
 
 AGENTE MARCO
 
@@ -802,7 +717,7 @@ CAPITAN VEGA
 
 ¿Ha terminado ya con él?
 
-Mira a Cassius pero sabe que él no debe responder, el asco en los ojos grises de Vega, junto a una extensa lista de gente a la que ha 'reeducado' sólo por hablar a un agente de la paz, o peor aún, a él, cuando no te ha dado el permiso expreso era más que suficiente para saber que lo mejor era mantener la mirada firme y permanecer en silencio.
+Mira a Cassius, pero sabe que él no debe responder, el asco en los ojos grises de Vega, junto a una extensa lista de gente a la que ha 'reeducado' sólo por hablar a un agente de la paz, o peor aún, a él, cuando no te ha dado el permiso expreso era más que suficiente para saber que lo mejor era mantener la mirada firme y permanecer en silencio.
 
 AGENTE MARCO
 
@@ -822,7 +737,7 @@ CAPITAN VEGA
 
 ¿Revisaste el equipamiento?
 
-Un escalofrío hiela la espalda de Cassius quien se aferra a la cinta que le cruza los hombros con un poco mas de fuerza. Su mirada permanece aún fija en el opuesto, como un desafío silencioso en el que, si claudicaba, perdería algo más que aquel encuentro.
+Un escalofrío hiela la espalda de Cassius quien se aferra a la cinta que le cruza los hombros con un poco más de fuerza. Su mirada permanece aún fija en el opuesto, como un desafío silencioso en el que, si claudicaba, perdería algo más que aquel encuentro.
 
 AGENTE MARCO
 
@@ -832,9 +747,7 @@ CAPITAN VEGA
 
 Pues revisa que esté todo, y anota todo lo que haya usado nuestro querido médico para que lo pague antes del fin de semana.
 
-Marco hubiera deseado replicar pero obedece y entra a la pequeña habitación del operatorio para revisar el equipamiento médico.
-
-23.
+Marco hubiera deseado replicar, pero obedece y entra a la pequeña habitación del operatorio para revisar el equipamiento médico.
 
 CAPITAN VEGA
 
@@ -850,21 +763,21 @@ CAPITAN VEGA
 
 Los bolsillos, ya.
 
-Nada cae de ellos y Cassius deja su bolsa con cuidado en el suelo antes de separarse. Vega no es precisamente delicado y cada tanteo con sus manos es como un puñetazo silencioso pero no puede encontrar nada lo que le exaspera y casi le frustra. Se encamina hacia la bolsa y la abre de manera brusca.
+Nada cae de ellos y Cassius deja su bolsa con cuidado en el suelo antes de separarse. Vega no es precisamente delicado y cada tanteo con sus manos es como un puñetazo silencioso, pero no puede encontrar nada lo que le exaspera y casi le frustra. Se encamina hacia la bolsa y la abre de manera brusca.
 
 CASSIUS VELTRAN
 
 Tenga cuidado, son las únicas herramientas médicas para todo el Distrito.
 
-El capitán está a punto de cruzarle la cara sólo por aquella contestación pero al mismo tiempo no quiere tener que imaginarse a esos perros del distrito entrando en su sacrosanto edificio cuando necesitasen tratamiento médico y sólo pudieran contar con aquellas herramientas.
+El capitán está a punto de cruzarle la cara sólo por aquella contestación, pero al mismo tiempo no quiere tener que imaginarse a esos perros del distrito entrando en su sacrosanto edificio cuando necesitasen tratamiento médico y sólo pudieran contar con aquellas herramientas.
 
 Cassius contiene el aliento y mira expectante. Al ver las herramientas manchadas de sangre lo mira y durante un instante duda si meter la mano o no.
 
 CASSIUS VELTRAN
 
-Tenga cuidado, la sangre es un peligro biológico.
+Use unos guantes, la sangre es un peligro biológico.
 
-Sabe que está tirando demasiado de aquel hilo pero tras un gruñido del agente Vega recibe la bolsa contra su pecho de manera brusca.
+Sabe que está tirando demasiado de aquella fina paciencia no puede evitarlo. Tras un gruñido del capitán Vega recibe la bolsa contra su pecho de manera brusca.
 
 CAPITAN VEGA
 
